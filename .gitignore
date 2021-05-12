@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 
 .DS_Store
 _pycache_/**
+=======
+/config.py
+/config2.py
+>>>>>>> 73891fc1da19b461eb0508296eb101f3c9427c57
