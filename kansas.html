@@ -4,13 +4,14 @@
 
 <head>
 
-    <title>Money and Politics</title>
+    <title>KS Politicians</title>
     <meta charset="utf-8" />
     <link rel="stylesheet" href="https://d19vzq90twjlae.cloudfront.net/leaflet-0.7/leaflet.css" />
     
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
-    <link rel="stylesheet" href="style.css">
+    <script src="static/js/logic.js"></script>
+    <link rel="stylesheet" href="static/css/style.css">
     <!-- Header -->
     <body>
       <nav class="navbar navbar-expand-lg navbar-light bg-light">
@@ -54,24 +55,7 @@
         </ul>
         <div id="introduction">
           <h2>Kansas</h2>
-          <div id="map" style="width: 600px; height: 400px"></div>
-          <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.17/d3.min.js"></script>
-          <script src="https://d19vzq90twjlae.cloudfront.net/leaflet-0.7/leaflet.js">
-          </script>
-          <script>
 	
-            var map = L.map('map').setView([39.0997, -94.5786], 7);
-            mapLink = 
-                '<a href="http://openstreetmap.org">OpenStreetMap</a>';
-            L.tileLayer(
-                'http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-                attribution: '&copy; ' + mapLink + ' Contributors',
-                maxZoom: 18,
-                }).addTo(map);
-            
-            
-        </script>
-        </div>
           <h2>Politicians</h2>
           <div id="Politicians">
            <!--Dropdowns--> 

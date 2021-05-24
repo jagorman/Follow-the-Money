@@ -10,8 +10,9 @@
     
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
-    <link rel="stylesheet" href="style.css">
     <link rel="stylesheet" href="https://d19vzq90twjlae.cloudfront.net/leaflet-0.7/leaflet.css" />
+    <script src="static/js/logic.js"></script>
+    <link rel="stylesheet" href="static/css/style.css">
     <!-- Header -->
     <body>
       <nav class="navbar navbar-expand-lg navbar-light bg-light">
@@ -46,27 +47,11 @@
         </div>
       </nav>
         <h1>Politicians, Donors, Platforms and Votes</h1>
-        <ul class="navigation">
-    
-        </ul>
+        <ul class="Header">
+      </ul>
         <div id="introduction">
           <h2>Where does the money go</h2>
-          <div id="map" style="width: 600px; height: 400px"></div>
-          <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.17/d3.min.js"></script>
-          <script src="https://d19vzq90twjlae.cloudfront.net/leaflet-0.7/leaflet.js">
-          </script>
-          <script>
-	
-            var map = L.map('map').setView([39.0997, -94.5786], 7);
-            mapLink = 
-                '<a href="http://openstreetmap.org">OpenStreetMap</a>';
-            L.tileLayer(
-                'http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-                attribution: '&copy; ' + mapLink + ' Contributors',
-                maxZoom: 18,
-                }).addTo(map);
-            
-            
+
         </script>
           <p>About the project</p>
           <p>(<em>Hypotheses</em>)</p>
@@ -79,7 +64,6 @@
 
         <div id="media">
           <h2>Notable Charts</h2>
-          <h3>COMING SOON</h3>
           <!--img src= static/images/---> 
           <!--video src=-->
         </div>
@@ -92,3 +76,5 @@
               <li>Follow the Money</li>
             </ul></div>
       </body>
+    </head>
+</html>
