@@ -1,111 +1,93 @@
 <!DOCTYPE html>
-
 <html>
-
 <head>
+  <title>MO Politicians</title>
+  <meta charset="utf-8" />  
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-+0n0xVW2eSR5OomGNYDnhzAbDsOXxcvSN1TPprVMTNDbiYZCxYbOOl7+AMvyTG2x" crossorigin="anonymous">
+  <!-- JavaScript Bundle with Popper -->
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-gtEjrD/SeCtmISkJkNUaaKMoLD0//ElJ19smozuHV6z3Iehds+3Ulb9Bn9Plx0x4" crossorigin="anonymous"></script>
+  <link rel="stylesheet" href="https://d19vzq90twjlae.cloudfront.net/leaflet-0.7/leaflet.css" />
+  <link rel="stylesheet" href="static/css/style.css">
+  <script src="https://d19vzq90twjlae.cloudfront.net/leaflet-0.7/leaflet.js"></script>
+  <script src="static/js/config.js"> </script>
+  <!-- Header -->
+</head>
+<body>
+  <nav class="navbar navbar-expand-lg navbar-light bg-light">
+    <div class="container-fluid">
+      <a class="navbar-brand" href="#"></a>
+      <a class="navbar-brand" href="https://github.com/jagorman/Follow-the-Money">
+        <img src="assets/dumpsterfire.jpg" alt="" width="30" height="24">
+      </a>
 
-    <title>MO Politicians</title>
-    <meta charset="utf-8" />
-    <link rel="stylesheet" href="https://d19vzq90twjlae.cloudfront.net/leaflet-0.7/leaflet.css" />
-    
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
-    <script src="static/js/logic2.js"></script>
-    <link rel="stylesheet" href="static/css/style.css">
-    <!-- Header -->
-    <body>
-      <nav class="navbar navbar-expand-lg navbar-light bg-light">
-        <a class="navbar-brand" href="#">Navbar</a>
-        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-          <span class="navbar-toggler-icon"></span>
-        </button>
-      
-        <div class="collapse navbar-collapse" id="navbarSupportedContent">
-          <ul class="navbar-nav mr-auto">
-            <li class="nav-item active">
-              <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="#"></a>
-            </li>
-            <li class="nav-item dropdown">
-              <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                Dropdown
-              </a>
-              <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                <a class="dropdown-item" href="#">Kansas</a>
-                <a class="dropdown-item" href="#">Missouri</a>
-                <div class="dropdown-divider"></div>
-                <a class="dropdown-item" href="#">Other Charts</a>
-              </div>
-            <!--> </li>
-            <li class="nav-item">
-              <a class="nav-link disabled" href="#">Disabled</a>
-            </li> <-->
-          </ul>
-          <form class="form-inline my-2 my-lg-0">
-            <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
-            <button class="btn btn-outline-success my-2 my-sm-0" type="submit">FollowTheMoney</button>
-          </form>
-        </div>
-      </nav>
-        <h1>Politicians, Donors, Platforms and Votes- Missouri</h1>
-        <ul class="navigation">
-    
-        </ul>
-        <div id="introduction">
-          <h2>Missouri</h2>
-          <div id="map" style="width: 600px; height: 400px"></div>
-          <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.17/d3.min.js"></script>
-          <script src="https://d19vzq90twjlae.cloudfront.net/leaflet-0.7/leaflet.js">
-          </script>
-          <script>
-	
-            var map = L.map('map').setView([39.0997, -94.5786], 7);
-            mapLink = 
-                '<a href="http://openstreetmap.org">OpenStreetMap</a>';
-            L.tileLayer(
-                'http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-                attribution: '&copy; ' + mapLink + ' Contributors',
-                maxZoom: 18,
-                }).addTo(map);
-            
-            
-        </script>
-          <p>About the project</p>
-          <p>(<em>Hypotheses</em>)</p>
-          <h3>Features</h3>
-          <p></p>
-        </div>
-          <h2>Politicians</h2>
-          <div id="Politicians">
-           <!--Dropdowns--> 
-          <h3>Missouri</h3>
-          <li>House    
-            <ul>        
-             <li>Democrat</li>
-             <li>Republican</li>
-             <li>Independent/Other</li>
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+          <li class="nav-item">
+            <a class="nav-link active" aria-current="page" href="index.html">Home</a>
+          </li>
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+              Choose State
+            </a>
+            <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+              <li><a class="dropdown-item" href="kansas.html">Kansas</a></li>
+              <li><a class="dropdown-item" href="missouri.html">Missouri</a></li>
             </ul>
-        
-            <li>Senate</li>
-            <ul>        
-                <li>Democrat</li>
-                <li>Republican</li>
-                <li>Independent/Other</li>
-               </ul>
-          </ul>
-        <div id="media">
-          <h2>Notable Charts</h2>
-          <!--img src= static/images/---> 
-          <!--video src=-->
-        </div>
-        <div> 
-          <div id="Politicians">
-            <h3>Resources</h3>
-            <ul>
-              <li>FEC</li>
-              <li>Open Secrets</li>
-              <li>Follow the Money</li>
-            </ul></div>
-      </body>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+  <h1>Politicians, Donors, Platforms and Votes- Kansas</h1>
+  <ul class="navigation"></ul>
+<div id="introduction">
+  <h2>Missouri</h2>
+  <div id="map" style="width: 600px; height: 400px"></div>
+  <script src="static/js/logic2.js"> </script>
+  
+  <h2>Where's the Money?</h2>
+  <div id="Table"></div>
+  <form>
+    <label for="money"></label>
+    <input id="money" type="text" placeholder="Enter Inquiry Here">
+    <button id="filter-btn" type="button">Filter Table</button>
+  </form>
+  <table id="kansas-table" class="table table-striped">
+  <table style="width:75%"></div>
+      <tr>
+        <th class="table-head">ID Number</th></div>
+        <th class="table-head">Last Name</th></div>
+        <th class="table-head">First Name</th></div>
+        <th class="table-head">State</th></div>
+        <th class="table-head">Office</th></div>
+        <th class="table-head">District</th>
+        <th class="table-head">Party</th></div>
+        <th class="table-head">Total Donations</th></div>
+      </tr></div>
+    </table></div>
+    <script src="https://d3js.org/d3.v6.min.js"></script>
+    <script src="/static/js/filter.js"></script>
+    
+    <div id="media">
+         
+      <h2>Notable Charts</h2>
+      <p>This is where all the cool charts will go when we get it to work</p>
+      
+    </div>
+    <!--img src= static/images/---> 
+    <!--video src=-->
+  </div>
+  <div>
+    <div id="Resources">
+        <h3>Resources</h3>
+        <ul>
+            <li><a href="https://api.open.fec.gov/developers/#/financial">FEC</a></li>
+            <li><a href="https://www.opensecrets.org/open-data/api">Open Secrets</a></li>
+            <li><a href="https://www.followthemoney.org/our-data/about-our-data">Follow the Money</a></li>
+        </ul>
+    </div>
+</body>
+</html>
