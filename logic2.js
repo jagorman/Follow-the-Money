@@ -1,5 +1,5 @@
 //Create Map Object
-var myMap2 = L.map("map2", {
+var myMap2 = L.map("map3", {
     center: [37.09, -95.71],
     zoom: 5
 });
@@ -12,7 +12,7 @@ L.tileLayer(`https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_toke
     zoomOffset: -1,
     id: "mapbox/streets-v11",
     accessToken: API_KEY
-}).addTo(myMap2);
+}).addTo(myMap3);
 
 
 var congressional_districts = [{
@@ -8183,18 +8183,18 @@ var congressional_districts = [{
         }, {
 
             var district1 = new L.GeoJSON();
-            district1.addData(congressional_districts[0].location[0]).addTo(myMap2);
+            district1.addData(congressional_districts[0].location[0]).addTo(myMap3);
             var district2 = new L.GeoJSON();
-            district2.addData(congressional_districts[1].location[0]).addTo(myMap2);
+            district2.addData(congressional_districts[1].location[0]).addTo(myMap3);
             var district3 = new L.GeoJSON();
-            district3.addData(congressional_districts[2].location[0]).addTo(myMap2);
+            district3.addData(congressional_districts[2].location[0]).addTo(myMap3);
             var district4 = new L.GeoJSON();
-            district4.addData(congressional_districts[3].location[0]).addTo(myMap2);
+            district4.addData(congressional_districts[3].location[0]).addTo(myMap3);
             var district5 = new L.GeoJSON();
-            district1.addData(congressional_districts[4].location[0]).addTo(myMap2);
+            district5.addData(congressional_districts[4].location[0]).addTo(myMap3);
             var district6 = new L.GeoJSON();
-            district2.addData(congressional_districts[5].location[0]).addTo(myMap2);
+            district6.addData(congressional_districts[5].location[0]).addTo(myMap3);
             var district7 = new L.GeoJSON();
-            district3.addData(congressional_districts[6].location[0]).addTo(myMap2);
+            district7.addData(congressional_districts[6].location[0]).addTo(myMap3);
             var district8 = new L.GeoJSON();
-            district4.addData(congressional_districts[7].location[0]).addTo(myMap2)
+            district8.addData(congressional_districts[7].location[0]).addTo(myMap3)
