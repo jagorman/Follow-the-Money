@@ -1,7 +1,7 @@
 //Create Map Object
 var myMap = L.map("map", {
-    center: [37.09, -95.71],
-    zoom: 5
+    center: [38.46, -92.57],
+    zoom: 6
 });
 
 //Add a tile layer
@@ -389,8 +389,6 @@ var congressional_districts = [{
             name: "MO-01",
         },
         {
-
-
             location: [{
                 "geometry": {
                     "type": "MultiPolygon",
@@ -1107,12 +1105,10 @@ var congressional_districts = [{
                 },
                 "type": "Feature",
                 "properties": { "Code": "MO-02", "District": "Missouri 2nd" }
-            }]
-
-        }, {
+            }],
             name: "MO-02",
-
-
+        },
+        {
             location: [{
                 "geometry": {
                     "type": "MultiPolygon",
@@ -2587,12 +2583,10 @@ var congressional_districts = [{
                 },
                 "type": "Feature",
                 "properties": { "Code": "MO-03", "District": "Missouri 3rd" }
-            }]
-
-        }, {
+            }],
             name: "MO-03",
-
-
+        }, 
+        {
             location: [{
                 "geometry": {
                     "type": "MultiPolygon",
@@ -3746,11 +3740,10 @@ var congressional_districts = [{
                 },
                 "type": "Feature",
                 "properties": { "Code": "MO-04", "District": "Missouri 4th" }
-            }]
-        }, {
+            }],
             name: "MO-04",
-
-
+        }, 
+        {
             location: [{
                 "geometry": {
                     "type": "MultiPolygon",
@@ -4619,10 +4612,10 @@ var congressional_districts = [{
                 "type": "Feature",
                 "properties": { "Code": "MO-05", "District": "Missouri 5th" }
             }],
-            Name: "MO-05",
-        }, {
-
-            Location: [{
+            Name: "MO-05"
+        },
+        {
+            location: [{
                 "geometry": {
                     "type": "MultiPolygon",
                     "coordinates": [
@@ -6483,12 +6476,11 @@ var congressional_districts = [{
                 },
                 "type": "Feature",
                 "properties": { "Code": "MO-06", "District": "Missouri 6th" }
-            }]
-        }, {
-            Name: "Mo-06",
-
-
-            Location: [{
+            }],
+            Name: "MO-06",
+        },
+        {
+            location: [{
                 "geometry": {
                     "type": "MultiPolygon",
                     "coordinates": [
@@ -6858,10 +6850,11 @@ var congressional_districts = [{
                 },
                 "type": "Feature",
                 "properties": { "Code": "MO-07", "District": "Missouri 7th" }
-            }]
-        }, {
-            Name: "MO-07",
-            Location: [{
+            }],
+            Name: "MO-07"
+        }, 
+        {
+            location: [{
                 "geometry": {
                     "type": "MultiPolygon",
                     "coordinates": [
@@ -8178,10 +8171,11 @@ var congressional_districts = [{
                 },
                 "type": "Feature","properties": { "Code": "MO-08", "District": "Missouri 8th" },
             }],
-            Name: "MO-08",
+            Name: "MO-08"
         },
     ];
 
+    console.log(congressional_districts[5])
     var district1 = new L.GeoJSON();
     district1.addData(congressional_districts[0].location[0]).addTo(myMap);
     var district2 = new L.GeoJSON();
@@ -8193,8 +8187,8 @@ var congressional_districts = [{
     var district5 = new L.GeoJSON();
     district5.addData(congressional_districts[4].location[0]).addTo(myMap);
     var district6 = new L.GeoJSON();
-    district6.addData(congressional_districts[5].location[0]).addTo(myMap);
+    district3.addData(congressional_districts[5].location[0]).addTo(myMap);
     var district7 = new L.GeoJSON();
-    district7.addData(congressional_districts[6].location[0]).addTo(myMap);
+    district4.addData(congressional_districts[6].location[0]).addTo(myMap);
     var district8 = new L.GeoJSON();
-    district8.addData(congressional_districts[7].location[0]).addTo(myMap);
+    district5.addData(congressional_districts[7].location[0]).addTo(myMap);

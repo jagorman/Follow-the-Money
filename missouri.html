@@ -9,7 +9,7 @@
   <link rel="stylesheet" href="https://d19vzq90twjlae.cloudfront.net/leaflet-0.7/leaflet.css" />
   <link rel="stylesheet" href="static/css/style.css">
   <script src="https://d19vzq90twjlae.cloudfront.net/leaflet-0.7/leaflet.js"></script>
-  <script src="static/config.js"> </script>
+  <script src="static/js/config.js"> </script>
   <!-- Header -->
 </head>
 <body>
@@ -41,44 +41,53 @@
       </div>
     </div>
   </nav>
-  <h1>Politicians, Donors, Platforms and Votes- Missouri</h1>
+  <h1>Politicians, Donors, Platforms and Votes- Kansas</h1>
   <ul class="navigation"></ul>
-  <div id="introduction">
-    <h2>Missouri</h2>
-    <div id="map" style="width: 600px; height: 400px"></div>
-    <script src="static/logic2.js"> </script>
-    <h2>Politicians</h2>
-    <div id="Politicians">
-     <!--Dropdowns--> 
-    <h3>Missouri</h3>
-    <li>House    
-      <ul>        
-       <li>Democrat</li>
-       <li>Republican</li>
-       <li>Independent/Other</li>
-      </ul>
+<div id="introduction">
+  <h2>Missouri</h2>
+  <div id="map" style="width: 600px; height: 400px"></div>
+  <script src="static/js/logic2.js"> </script>
   
-      <li>Senate</li>
-        <ul>        
-          <li>Democrat</li>
-          <li>Republican</li>
-          <li>Independent/Other</li>
-        </ul>
-    </ul>
-  <div id="media">
-    <h2>Notable Charts</h2>
+  <h2>Where's the Money?</h2>
+  <div id="Table"></div>
+  <form>
+    <label for="money"></label>
+    <input id="money" type="text" placeholder="Enter Inquiry Here">
+    <button id="filter-btn" type="button">Filter Table</button>
+  </form>
+  <table id="kansas-table" class="table table-striped">
+  <table style="width:75%"></div>
+      <tr>
+        <th class="table-head">ID Number</th></div>
+        <th class="table-head">Last Name</th></div>
+        <th class="table-head">First Name</th></div>
+        <th class="table-head">State</th></div>
+        <th class="table-head">Office</th></div>
+        <th class="table-head">District</th>
+        <th class="table-head">Party</th></div>
+        <th class="table-head">Total Donations</th></div>
+      </tr></div>
+    </table></div>
+    <script src="https://d3js.org/d3.v6.min.js"></script>
+    <script src="/static/js/filter.js"></script>
+    
+    <div id="media">
+         
+      <h2>Notable Charts</h2>
+      <p>This is where all the cool charts will go when we get it to work</p>
+      
+    </div>
     <!--img src= static/images/---> 
     <!--video src=-->
   </div>
   <div>
-    <div id="Politicians">
-      <h3>Resources</h3>
-      <ul>
-        <li>FEC</li>
-        <li>Open Secrets</li>
-        <li>Follow the Money</li>
-      </ul>
+    <div id="Resources">
+        <h3>Resources</h3>
+        <ul>
+            <li><a href="https://api.open.fec.gov/developers/#/financial">FEC</a></li>
+            <li><a href="https://www.opensecrets.org/open-data/api">Open Secrets</a></li>
+            <li><a href="https://www.followthemoney.org/our-data/about-our-data">Follow the Money</a></li>
+        </ul>
     </div>
-  </div>
 </body>
 </html>
