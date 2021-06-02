@@ -1,0 +1,620 @@
+{"_id":{"$oid":"60ad40f39bac61a042766414"},"total":415.71,"cycle":2014,"state_full":"Kansas","state":"KS","candidate_id":"H0KS01123","count":4}
+{"_id":{"$oid":"60ad40f39bac61a042766415"},"total":75.0,"cycle":2016,"state_full":"Kansas","state":"KS","candidate_id":"H0KS01123","count":1}
+{"_id":{"$oid":"60ad40f39bac61a042766416"},"total":2800.0,"cycle":2020,"state_full":"Arkansas","state":"AR","candidate_id":"H0KS01123","count":1}
+{"_id":{"$oid":"60ad40f39bac61a042766417"},"total":11200.0,"cycle":2020,"state_full":"Arizona","state":"AZ","candidate_id":"H0KS01123","count":4}
+{"_id":{"$oid":"60ad40f39bac61a042766418"},"total":13770.2,"cycle":2020,"state_full":"California","state":"CA","candidate_id":"H0KS01123","count":16}
+{"_id":{"$oid":"60ad40f39bac61a042766419"},"total":750.0,"cycle":2020,"state_full":"Colorado","state":"CO","candidate_id":"H0KS01123","count":4}
+{"_id":{"$oid":"60ad40f39bac61a04276641a"},"total":1750.0,"cycle":2020,"state_full":"District Of Columbia","state":"DC","candidate_id":"H0KS01123","count":4}
+{"_id":{"$oid":"60ad40f39bac61a04276641b"},"total":3050.0,"cycle":2020,"state_full":"Florida","state":"FL","candidate_id":"H0KS01123","count":2}
+{"_id":{"$oid":"60ad40f39bac61a04276641c"},"total":475.0,"cycle":2020,"state_full":"Georgia","state":"GA","candidate_id":"H0KS01123","count":2}
+{"_id":{"$oid":"60ad40f39bac61a04276641d"},"total":251.0,"cycle":2020,"state_full":"Illinois","state":"IL","candidate_id":"H0KS01123","count":1}
+{"_id":{"$oid":"60ad40f39bac61a04276641e"},"total":904158.16,"cycle":2020,"state_full":"Kansas","state":"KS","candidate_id":"H0KS01123","count":750}
+{"_id":{"$oid":"60ad40f39bac61a04276641f"},"total":2100.0,"cycle":2020,"state_full":"Maryland","state":"MD","candidate_id":"H0KS01123","count":4}
+{"_id":{"$oid":"60ad40f39bac61a042766420"},"total":500.0,"cycle":2020,"state_full":"Michigan","state":"MI","candidate_id":"H0KS01123","count":1}
+{"_id":{"$oid":"60ad40f39bac61a042766421"},"total":1000.0,"cycle":2020,"state_full":"Minnesota","state":"MN","candidate_id":"H0KS01123","count":1}
+{"_id":{"$oid":"60ad40f39bac61a042766422"},"total":49200.0,"cycle":2020,"state_full":"Missouri","state":"MO","candidate_id":"H0KS01123","count":47}
+{"_id":{"$oid":"60ad40f39bac61a042766423"},"total":5600.0,"cycle":2020,"state_full":"North Dakota","state":"ND","candidate_id":"H0KS01123","count":4}
+{"_id":{"$oid":"60ad40f39bac61a042766424"},"total":2800.0,"cycle":2020,"state_full":"Nebraska","state":"NE","candidate_id":"H0KS01123","count":1}
+{"_id":{"$oid":"60ad40f39bac61a042766425"},"total":1500.0,"cycle":2020,"state_full":"Oklahoma","state":"OK","candidate_id":"H0KS01123","count":3}
+{"_id":{"$oid":"60ad40f39bac61a042766426"},"total":250.0,"cycle":2020,"state_full":"Oregon","state":"OR","candidate_id":"H0KS01123","count":1}
+{"_id":{"$oid":"60ad40f39bac61a042766427"},"total":250.0,"cycle":2020,"state_full":"Tennessee","state":"TN","candidate_id":"H0KS01123","count":1}
+{"_id":{"$oid":"60ad40f49bac61a042766428"},"total":18250.0,"state":"TX","count":17,"candidate_id":"H0KS01123","state_full":"Texas","cycle":2020}
+{"_id":{"$oid":"60ad40f49bac61a042766429"},"total":13650.0,"state":"VA","count":11,"candidate_id":"H0KS01123","state_full":"Virginia","cycle":2020}
+{"_id":{"$oid":"60ad40f49bac61a04276642a"},"total":500.0,"state":"WY","count":1,"candidate_id":"H0KS01123","state_full":"Wyoming","cycle":2020}
+{"_id":{"$oid":"60ad40f49bac61a04276642b"},"total":2800.0,"state":"AL","count":1,"candidate_id":"H0KS02188","state_full":"Alabama","cycle":2020}
+{"_id":{"$oid":"60ad40f49bac61a04276642c"},"total":2000.0,"state":"AR","count":3,"candidate_id":"H0KS02188","state_full":"Arkansas","cycle":2020}
+{"_id":{"$oid":"60ad40f49bac61a04276642d"},"total":7115.0,"state":"AZ","count":7,"candidate_id":"H0KS02188","state_full":"Arizona","cycle":2020}
+{"_id":{"$oid":"60ad40f49bac61a04276642e"},"total":10400.0,"state":"CA","count":10,"candidate_id":"H0KS02188","state_full":"California","cycle":2020}
+{"_id":{"$oid":"60ad40f49bac61a04276642f"},"total":750.0,"state":"CO","count":2,"candidate_id":"H0KS02188","state_full":"Colorado","cycle":2020}
+{"_id":{"$oid":"60ad40f49bac61a042766430"},"total":3800.0,"state":"CT","count":2,"candidate_id":"H0KS02188","state_full":"Connecticut","cycle":2020}
+{"_id":{"$oid":"60ad40f49bac61a042766431"},"total":6600.0,"state":"DC","count":5,"candidate_id":"H0KS02188","state_full":"District Of Columbia","cycle":2020}
+{"_id":{"$oid":"60ad40f49bac61a042766432"},"total":16000.0,"state":"FL","count":9,"candidate_id":"H0KS02188","state_full":"Florida","cycle":2020}
+{"_id":{"$oid":"60ad40f49bac61a042766433"},"total":5600.0,"state":"ID","count":2,"candidate_id":"H0KS02188","state_full":"Idaho","cycle":2020}
+{"_id":{"$oid":"60ad40f49bac61a042766434"},"total":13450.0,"state":"IL","count":9,"candidate_id":"H0KS02188","state_full":"Illinois","cycle":2020}
+{"_id":{"$oid":"60ad40f49bac61a042766435"},"total":1000.0,"state":"IN","count":1,"candidate_id":"H0KS02188","state_full":"Indiana","cycle":2020}
+{"_id":{"$oid":"60ad40f49bac61a042766436"},"total":1.01734667E+06,"state":"KS","count":930,"candidate_id":"H0KS02188","state_full":"Kansas","cycle":2020}
+{"_id":{"$oid":"60ad40f49bac61a042766437"},"total":500.0,"state":"KY","count":1,"candidate_id":"H0KS02188","state_full":"Kentucky","cycle":2020}
+{"_id":{"$oid":"60ad40f49bac61a042766438"},"total":2800.0,"state":"LA","count":1,"candidate_id":"H0KS02188","state_full":"Louisiana","cycle":2020}
+{"_id":{"$oid":"60ad40f49bac61a042766439"},"total":6100.0,"state":"MA","count":3,"candidate_id":"H0KS02188","state_full":"Massachusetts","cycle":2020}
+{"_id":{"$oid":"60ad40f49bac61a04276643a"},"total":3000.0,"state":"MD","count":3,"candidate_id":"H0KS02188","state_full":"Maryland","cycle":2020}
+{"_id":{"$oid":"60ad40f49bac61a04276643b"},"total":500.0,"state":"MI","count":1,"candidate_id":"H0KS02188","state_full":"Michigan","cycle":2020}
+{"_id":{"$oid":"60ad40f49bac61a04276643c"},"state_full":"Wyoming","cycle":2020,"count":1,"total":500.0,"state":"WY","candidate_id":"H0KS02188"}
+{"_id":{"$oid":"60ad40f49bac61a04276643d"},"state_full":"Maryland","cycle":2014,"count":28,"total":39250.0,"state":"MD","candidate_id":"S0MO00183"}
+{"_id":{"$oid":"60ad40f49bac61a04276643e"},"state_full":"California","cycle":2016,"count":292,"total":343823.0,"state":"CA","candidate_id":"S0MO00183"}
+{"_id":{"$oid":"60ad40f49bac61a04276643f"},"state_full":"Virginia","cycle":2018,"count":27,"total":20950.0,"state":"VA","candidate_id":"S0KS00091"}
+{"_id":{"$oid":"60ad40f49bac61a042766440"},"state_full":"Iowa","cycle":2014,"count":2,"total":1500.0,"state":"IA","candidate_id":"S0KS00091"}
+{"_id":{"$oid":"60ad40f49bac61a042766441"},"state_full":"Arizona","cycle":2018,"count":181,"total":123583.34,"state":"AZ","candidate_id":"S8MO00160"}
+{"_id":{"$oid":"60ad40f49bac61a042766442"},"state_full":"New Jersey","cycle":2014,"count":2,"total":2000.0,"state":"NJ","candidate_id":"S0KS00091"}
+{"_id":{"$oid":"60ad40f49bac61a042766443"},"state_full":"Pennsylvania","cycle":2020,"count":3,"total":1400.0,"state":"PA","candidate_id":"S0MO00183"}
+{"_id":{"$oid":"60ad40f49bac61a042766444"},"state_full":"Maryland","cycle":2018,"count":15,"total":23000.0,"state":"MD","candidate_id":"S0KS00091"}
+{"_id":{"$oid":"60ad40f49bac61a042766445"},"state_full":"Kentucky","cycle":2020,"count":6,"total":2200.0,"state":"KY","candidate_id":"S0MO00183"}
+{"_id":{"$oid":"60ad40f49bac61a042766446"},"state_full":"Kansas","cycle":2020,"count":3141,"total":2.45522099E+06,"state":"KS","candidate_id":"S0KS00315"}
+{"_id":{"$oid":"60ad40f49bac61a042766447"},"state_full":"Arizona","cycle":2014,"count":6,"total":8200.0,"state":"AZ","candidate_id":"S0KS00091"}
+{"_id":{"$oid":"60ad40f49bac61a042766448"},"state_full":"New Jersey","cycle":2020,"count":50,"total":20847.5,"state":"NJ","candidate_id":"H8KS03155"}
+{"_id":{"$oid":"60ad40f49bac61a042766449"},"state_full":"Missouri","cycle":2020,"count":183,"total":163952.5,"state":"MO","candidate_id":"S0KS00315"}
+{"_id":{"$oid":"60ad40f49bac61a04276644a"},"state_full":"Oklahoma","cycle":2018,"count":29,"total":44300.0,"state":"OK","candidate_id":"S0MO00183"}
+{"_id":{"$oid":"60ad40f49bac61a04276644b"},"state_full":"Minnesota","cycle":2020,"count":1,"total":1000.0,"state":"MN","candidate_id":"H0KS01123"}
+{"_id":{"$oid":"60ad40f49bac61a04276644c"},"state_full":"Arkansas","cycle":2018,"count":4,"total":4000.0,"state":"AR","candidate_id":"S0MO00183"}
+{"_id":{"$oid":"60ad40f49bac61a04276644d"},"state_full":"Florida","cycle":2020,"count":23,"total":33300.0,"state":"FL","candidate_id":"S0KS00091"}
+{"_id":{"$oid":"60ad40f49bac61a04276644e"},"state_full":"Connecticut","cycle":2020,"count":1,"total":1000.0,"state":"CT","candidate_id":"S0KS00091"}
+{"_id":{"$oid":"60ad40f49bac61a04276644f"},"state_full":"Massachusetts","cycle":2020,"count":15,"total":3432.34,"state":"MA","candidate_id":"S8MO00160"}
+{"_id":{"$oid":"60ad40f59bac61a042766450"},"state":"MS","total":1000.0,"state_full":"Mississippi","cycle":2018,"count":1,"candidate_id":"S0MO00183"}
+{"_id":{"$oid":"60ad40f59bac61a042766451"},"state":"KS","total":904158.16,"state_full":"Kansas","cycle":2020,"count":750,"candidate_id":"H0KS01123"}
+{"_id":{"$oid":"60ad40f59bac61a042766452"},"state":"DC","total":1750.0,"state_full":"District Of Columbia","cycle":2020,"count":4,"candidate_id":"H0KS01123"}
+{"_id":{"$oid":"60ad40f59bac61a042766453"},"state":"PA","total":11275.65,"state_full":"Pennsylvania","cycle":2020,"count":74,"candidate_id":"H8KS03155"}
+{"_id":{"$oid":"60ad40f59bac61a042766454"},"state":"HI","total":2700.0,"state_full":"Hawaii","cycle":2018,"count":1,"candidate_id":"S0MO00183"}
+{"_id":{"$oid":"60ad40f59bac61a042766455"},"state":"CO","total":28772.06,"state_full":"Colorado","cycle":2018,"count":92,"candidate_id":"H8KS03155"}
+{"_id":{"$oid":"60ad40f59bac61a042766456"},"state":"NY","total":8600.0,"state_full":"New York","cycle":2014,"count":4,"candidate_id":"S0KS00091"}
+{"_id":{"$oid":"60ad40f59bac61a042766457"},"state":"NC","total":4301.66,"state_full":"North Carolina","cycle":2020,"count":16,"candidate_id":"H8KS03155"}
+{"_id":{"$oid":"60ad40f59bac61a042766458"},"state":"MO","total":73686.32,"state_full":"Missouri","cycle":2020,"count":52,"candidate_id":"H0KS02188"}
+{"_id":{"$oid":"60ad40f59bac61a042766459"},"state":"KY","total":10800.0,"state_full":"Kentucky","cycle":2018,"count":4,"candidate_id":"H8KS03155"}
+{"_id":{"$oid":"60ad40f59bac61a04276645a"},"state":"SD","total":3200.0,"state_full":"South Dakota","cycle":2020,"count":4,"candidate_id":"S0KS00091"}
+{"_id":{"$oid":"60ad40f59bac61a04276645b"},"state":"IA","total":2500.0,"state_full":"Iowa","cycle":2014,"count":3,"candidate_id":"S0MO00183"}
+{"_id":{"$oid":"60ad40f59bac61a04276645c"},"state":"CO","total":21450.0,"state_full":"Colorado","cycle":2020,"count":12,"candidate_id":"S0KS00091"}
+{"_id":{"$oid":"60ad40f59bac61a04276645d"},"state":"CT","total":2520.0,"state_full":"Connecticut","cycle":2018,"count":3,"candidate_id":"S0KS00091"}
+{"_id":{"$oid":"60ad40f59bac61a04276645e"},"state":"CO","total":750.0,"state_full":"Colorado","cycle":2020,"count":2,"candidate_id":"H0KS02188"}
+{"_id":{"$oid":"60ad40f59bac61a04276645f"},"state":"MA","total":54922.0,"state_full":"Massachusetts","cycle":2018,"count":104,"candidate_id":"S8MO00160"}
+{"_id":{"$oid":"60ad40f59bac61a042766460"},"state":"HI","total":6300.0,"state_full":"Hawaii","cycle":2020,"count":4,"candidate_id":"S0KS00315"}
+{"_id":{"$oid":"60ad40f59bac61a042766461"},"state":"AL","total":11700.0,"state_full":"Alabama","cycle":2020,"count":5,"candidate_id":"S0MO00183"}
+{"_id":{"$oid":"60ad40f59bac61a042766462"},"state":"RI","total":7650.0,"state_full":"Rhode Island","cycle":2018,"count":5,"candidate_id":"S8MO00160"}
+{"_id":{"$oid":"60ad40f59bac61a042766463"},"state":"AZ","total":2500.0,"state_full":"Arizona","cycle":2014,"count":3,"candidate_id":"S0MO00183"}
+{"_id":{"$oid":"60ad40f59bac61a042766464"},"total":2800.0,"state":"AL","count":1,"candidate_id":"H0KS02188","state_full":"Alabama","cycle":2020}
+{"_id":{"$oid":"60ad40f59bac61a042766465"},"total":617532.45,"state":"KS","count":2989,"candidate_id":"H8KS03155","state_full":"Kansas","cycle":2018}
+{"_id":{"$oid":"60ad40f59bac61a042766466"},"total":1000.0,"state":"IA","count":3,"candidate_id":"H8KS03155","state_full":"Iowa","cycle":2018}
+{"_id":{"$oid":"60ad40f59bac61a042766467"},"total":794.53,"state":"AK","count":5,"candidate_id":"H8KS03155","state_full":"Alaska","cycle":2018}
+{"_id":{"$oid":"60ad40f59bac61a042766468"},"total":68731.6,"state":"MD","count":186,"candidate_id":"H8KS03155","state_full":"Maryland","cycle":2020}
+{"_id":{"$oid":"60ad40f59bac61a042766469"},"total":54170.0,"state":"CA","count":58,"candidate_id":"S0MO00183","state_full":"California","cycle":2020}
+{"_id":{"$oid":"60ad40f59bac61a04276646a"},"total":90268.0,"state":"FL","count":83,"candidate_id":"S0KS00091","state_full":"Florida","cycle":2016}
+{"_id":{"$oid":"60ad40f59bac61a04276646b"},"total":3.74748466E+06,"state":"MO","count":4835,"candidate_id":"S8MO00160","state_full":"Missouri","cycle":2018}
+{"_id":{"$oid":"60ad40f59bac61a04276646c"},"total":14150.0,"state":"GA","count":7,"candidate_id":"S0KS00091","state_full":"Georgia","cycle":2020}
+{"_id":{"$oid":"60ad40f59bac61a04276646d"},"total":18390.0,"state":"NV","count":29,"candidate_id":"S0KS00315","state_full":"Nevada","cycle":2020}
+{"_id":{"$oid":"60ad40f59bac61a04276646e"},"total":12200.0,"state":"WI","count":18,"candidate_id":"S0MO00183","state_full":"Wisconsin","cycle":2016}
+{"_id":{"$oid":"60ad40f59bac61a04276646f"},"total":11112.5,"state":"WY","count":7,"candidate_id":"S0KS00315","state_full":"Wyoming","cycle":2020}
+{"_id":{"$oid":"60ad40f59bac61a042766470"},"total":24200.0,"state":"OK","count":11,"candidate_id":"S0KS00091","state_full":"Oklahoma","cycle":2018}
+{"_id":{"$oid":"60ad40f59bac61a042766471"},"total":7000.0,"state":"FL","count":6,"candidate_id":"S0KS00091","state_full":"Florida","cycle":2018}
+{"_id":{"$oid":"60ad40f59bac61a042766472"},"total":18000.0,"state":"OH","count":8,"candidate_id":"H0KS02188","state_full":"Ohio","cycle":2020}
+{"_id":{"$oid":"60ad40f59bac61a042766473"},"total":35665.0,"state":"IL","count":41,"candidate_id":"S0MO00183","state_full":"Illinois","cycle":2020}
+{"_id":{"$oid":"60ad40f59bac61a042766474"},"total":335050.1,"state":"MO","count":519,"candidate_id":"S0MO00183","state_full":"Missouri","cycle":2018}
+{"_id":{"$oid":"60ad40f59bac61a042766475"},"total":1600.0,"state":"MN","count":5,"candidate_id":"S0KS00091","state_full":"Minnesota","cycle":2020}
+{"_id":{"$oid":"60ad40f59bac61a042766476"},"total":2800.0,"state":"NV","count":1,"candidate_id":"S0KS00091","state_full":"Nevada","cycle":2020}
+{"_id":{"$oid":"60ad40f59bac61a042766477"},"total":93775.78,"state":"NV","count":107,"candidate_id":"S8MO00160","state_full":"Nevada","cycle":2018}
+{"_id":{"$oid":"60ad40f59bac61a042766478"},"candidate_id":"S0KS00091","total":300.0,"count":1,"cycle":2016,"state":"NM","state_full":"New Mexico"}
+{"_id":{"$oid":"60ad40f59bac61a042766479"},"candidate_id":"H8KS03155","total":24223.33,"count":59,"cycle":2020,"state":"OR","state_full":"Oregon"}
+{"_id":{"$oid":"60ad40f59bac61a04276647a"},"candidate_id":"H8KS03155","total":196178.8,"count":468,"cycle":2020,"state":"DC","state_full":"District Of Columbia"}
+{"_id":{"$oid":"60ad40f59bac61a04276647b"},"candidate_id":"H8KS03155","total":1870.0,"count":30,"cycle":2020,"state":"AR","state_full":"Arkansas"}
+{"_id":{"$oid":"60ad40f59bac61a04276647c"},"candidate_id":"S8MO00160","total":566.67,"count":7,"cycle":2020,"state":"WY","state_full":"Wyoming"}
+{"_id":{"$oid":"60ad40f59bac61a04276647d"},"candidate_id":"S8MO00160","total":6785.0,"count":33,"cycle":2020,"state":"CO","state_full":"Colorado"}
+{"_id":{"$oid":"60ad40f59bac61a04276647e"},"candidate_id":"S0KS00091","total":16200.0,"count":6,"cycle":2020,"state":"NC","state_full":"North Carolina"}
+{"_id":{"$oid":"60ad40f59bac61a04276647f"},"candidate_id":"S0KS00315","total":1500.0,"count":3,"cycle":2020,"state":"AL","state_full":"Alabama"}
+{"_id":{"$oid":"60ad40f59bac61a042766480"},"candidate_id":"S0MO00183","total":3050.0,"count":5,"cycle":2020,"state":"WA","state_full":"Washington"}
+{"_id":{"$oid":"60ad40f59bac61a042766481"},"candidate_id":"S8MO00160","total":91413.0,"count":125,"cycle":2018,"state":"GA","state_full":"Georgia"}
+{"_id":{"$oid":"60ad40f59bac61a042766482"},"candidate_id":"S0MO00183","total":2000.0,"count":3,"cycle":2014,"state":"WA","state_full":"Washington"}
+{"_id":{"$oid":"60ad40f59bac61a042766483"},"candidate_id":"H0KS01123","total":11200.0,"count":4,"cycle":2020,"state":"AZ","state_full":"Arizona"}
+{"_id":{"$oid":"60ad40f59bac61a042766484"},"candidate_id":"S0MO00183","total":1000.0,"count":1,"cycle":2018,"state":"WY","state_full":"Wyoming"}
+{"_id":{"$oid":"60ad40f59bac61a042766485"},"candidate_id":"S0MO00183","total":13600.0,"count":9,"cycle":2016,"state":"SD","state_full":"South Dakota"}
+{"_id":{"$oid":"60ad40f59bac61a042766486"},"candidate_id":"H0KS02188","total":10900.0,"count":8,"cycle":2020,"state":"VA","state_full":"Virginia"}
+{"_id":{"$oid":"60ad40f59bac61a042766487"},"candidate_id":"S0KS00091","total":1200.0,"count":5,"cycle":2016,"state":"MN","state_full":"Minnesota"}
+{"_id":{"$oid":"60ad40f59bac61a042766488"},"candidate_id":"H0KS02188","total":13450.0,"count":9,"cycle":2020,"state":"IL","state_full":"Illinois"}
+{"_id":{"$oid":"60ad40f59bac61a042766489"},"candidate_id":"S0MO00183","total":4800.0,"count":8,"cycle":2014,"state":"UT","state_full":"Utah"}
+{"_id":{"$oid":"60ad40f59bac61a04276648a"},"candidate_id":"H8KS03155","total":7073.04,"count":4,"cycle":2020,"state":"AL","state_full":"Alabama"}
+{"_id":{"$oid":"60ad40f59bac61a04276648b"},"candidate_id":"S0MO00183","total":17600.0,"count":18,"cycle":2014,"state":"FL","state_full":"Florida"}
+{"_id":{"$oid":"60ad40f69bac61a04276648c"},"state_full":"Oklahoma","cycle":2014,"count":19,"total":38583.36,"state":"OK","candidate_id":"S0KS00091"}
+{"_id":{"$oid":"60ad40f69bac61a04276648d"},"state_full":"Oregon","cycle":2018,"count":75,"total":14840.27,"state":"OR","candidate_id":"H8KS03155"}
+{"_id":{"$oid":"60ad40f69bac61a04276648e"},"state_full":"Oregon","cycle":2020,"count":7,"total":1642.5,"state":"OR","candidate_id":"S0KS00315"}
+{"_id":{"$oid":"60ad40f69bac61a04276648f"},"state_full":"Indiana","cycle":2016,"count":2,"total":2000.0,"state":"IN","candidate_id":"S0KS00091"}
+{"_id":{"$oid":"60ad40f69bac61a042766490"},"state_full":"Louisiana","cycle":2020,"count":11,"total":750.0,"state":"LA","candidate_id":"S0MO00183"}
+{"_id":{"$oid":"60ad40f69bac61a042766491"},"state_full":"Iowa","cycle":2016,"count":1,"total":1000.0,"state":"IA","candidate_id":"S0KS00091"}
+{"_id":{"$oid":"60ad40f69bac61a042766492"},"state_full":"Tennessee","cycle":2020,"count":81,"total":5873.0,"state":"TN","candidate_id":"H8KS03155"}
+{"_id":{"$oid":"60ad40f69bac61a042766493"},"state_full":"New York","cycle":2020,"count":8,"total":11775.0,"state":"NY","candidate_id":"S0KS00091"}
+{"_id":{"$oid":"60ad40f69bac61a042766494"},"state_full":"Connecticut","cycle":2014,"count":25,"total":37950.0,"state":"CT","candidate_id":"S0MO00183"}
+{"_id":{"$oid":"60ad40f69bac61a042766495"},"state_full":"Kentucky","cycle":2020,"count":30,"total":2575.0,"state":"KY","candidate_id":"S8MO00160"}
+{"_id":{"$oid":"60ad40f69bac61a042766496"},"state_full":"Oklahoma","cycle":2020,"count":8,"total":1000.0,"state":"OK","candidate_id":"H0KS02188"}
+{"_id":{"$oid":"60ad40f69bac61a042766497"},"state_full":"Missouri","cycle":2020,"count":989,"total":645982.18,"state":"MO","candidate_id":"S0MO00183"}
+{"_id":{"$oid":"60ad40f69bac61a042766498"},"state_full":"Nebraska","cycle":2018,"count":5,"total":3000.0,"state":"NE","candidate_id":"S0KS00091"}
+{"_id":{"$oid":"60ad40f69bac61a042766499"},"state_full":"Maine","cycle":2018,"count":8,"total":10481.8,"state":"ME","candidate_id":"H8KS03155"}
+{"_id":{"$oid":"60ad40f69bac61a04276649a"},"state_full":"North Carolina","cycle":2018,"count":19,"total":9150.0,"state":"NC","candidate_id":"H8KS03155"}
+{"_id":{"$oid":"60ad40f69bac61a04276649b"},"state_full":"Colorado","cycle":2020,"count":19,"total":32875.0,"state":"CO","candidate_id":"S0KS00315"}
+{"_id":{"$oid":"60ad40f69bac61a04276649c"},"state_full":"Pennsylvania","cycle":2020,"count":1,"total":500.0,"state":"PA","candidate_id":"S0KS00091"}
+{"_id":{"$oid":"60ad40f69bac61a04276649d"},"state_full":"Arizona","cycle":2020,"count":20,"total":29825.0,"state":"AZ","candidate_id":"H8KS03155"}
+{"_id":{"$oid":"60ad40f69bac61a04276649e"},"state_full":"Tennessee","cycle":2018,"count":2,"total":1500.0,"state":"TN","candidate_id":"S0MO00183"}
+{"_id":{"$oid":"60ad40f69bac61a04276649f"},"state_full":"New Jersey","cycle":2014,"count":6,"total":10950.0,"state":"NJ","candidate_id":"S0MO00183"}
+{"_id":{"$oid":"60ad40f69bac61a0427664a0"},"total":2500.0,"cycle":2014,"state_full":"Mississippi","state":"MS","candidate_id":"S0MO00183","count":2}
+{"_id":{"$oid":"60ad40f69bac61a0427664a1"},"total":30675.0,"cycle":2014,"state_full":"West Virginia","state":"WV","candidate_id":"S0MO00183","count":44}
+{"_id":{"$oid":"60ad40f69bac61a0427664a2"},"total":20049.5,"cycle":2020,"state_full":"Wisconsin","state":"WI","candidate_id":"H8KS03155","count":87}
+{"_id":{"$oid":"60ad40f69bac61a0427664a3"},"total":6550.0,"cycle":2018,"state_full":"Delaware","state":"DE","candidate_id":"S8MO00160","count":8}
+{"_id":{"$oid":"60ad40f69bac61a0427664a4"},"total":2175.0,"cycle":2020,"state_full":"Hawaii","state":"HI","candidate_id":"H8KS03155","count":3}
+{"_id":{"$oid":"60ad40f69bac61a0427664a5"},"total":55950.0,"cycle":2018,"state_full":"District Of Columbia","state":"DC","candidate_id":"S0MO00183","count":53}
+{"_id":{"$oid":"60ad40f69bac61a0427664a6"},"total":9630.0,"cycle":2018,"state_full":"Georgia","state":"GA","candidate_id":"H8KS03155","count":17}
+{"_id":{"$oid":"60ad40f69bac61a0427664a7"},"total":76872.5,"cycle":2020,"state_full":"Virginia","state":"VA","candidate_id":"S0MO00183","count":120}
+{"_id":{"$oid":"60ad40f69bac61a0427664a8"},"total":12050.0,"cycle":2020,"state_full":"Maine","state":"ME","candidate_id":"H8KS03155","count":10}
+{"_id":{"$oid":"60ad40f69bac61a0427664a9"},"total":3470.0,"cycle":2020,"state_full":"New Jersey","state":"NJ","candidate_id":"S8MO00160","count":14}
+{"_id":{"$oid":"60ad40f69bac61a0427664aa"},"total":75.0,"cycle":2016,"state_full":"Kansas","state":"KS","candidate_id":"H0KS01123","count":1}
+{"_id":{"$oid":"60ad40f69bac61a0427664ab"},"total":10150.0,"cycle":2020,"state_full":"District Of Columbia","state":"DC","candidate_id":"S8MO00160","count":19}
+{"_id":{"$oid":"60ad40f69bac61a0427664ac"},"total":1250.0,"cycle":2016,"state_full":"Utah","state":"UT","candidate_id":"S0KS00091","count":3}
+{"_id":{"$oid":"60ad40f69bac61a0427664ad"},"total":152896.73,"cycle":2020,"state_full":"Missouri","state":"MO","candidate_id":"H8KS03155","count":597}
+{"_id":{"$oid":"60ad40f69bac61a0427664ae"},"total":500.0,"cycle":2020,"state_full":"Michigan","state":"MI","candidate_id":"H0KS02188","count":1}
+{"_id":{"$oid":"60ad40f69bac61a0427664af"},"total":7000.0,"cycle":2014,"state_full":"Illinois","state":"IL","candidate_id":"S0KS00091","count":6}
+{"_id":{"$oid":"60ad40f69bac61a0427664b0"},"total":21010.0,"cycle":2018,"state_full":"Mississippi","state":"MS","candidate_id":"S8MO00160","count":40}
+{"_id":{"$oid":"60ad40f69bac61a0427664b1"},"total":182406.66,"cycle":2018,"state_full":"District Of Columbia","state":"DC","candidate_id":"S8MO00160","count":182}
+{"_id":{"$oid":"60ad40f69bac61a0427664b2"},"total":425.0,"cycle":2016,"state_full":"Puerto Rico","state":"PR","candidate_id":"S0MO00183","count":6}
+{"_id":{"$oid":"60ad40f69bac61a0427664b3"},"total":36461.0,"cycle":2018,"state_full":"New Jersey","state":"NJ","candidate_id":"S8MO00160","count":75}
+{"_id":{"$oid":"60ad40f69bac61a0427664b4"},"state_full":"Maryland","candidate_id":"S0MO00183","state":"MD","cycle":2016,"count":216,"total":235224.66}
+{"_id":{"$oid":"60ad40f69bac61a0427664b5"},"state_full":"Oregon","candidate_id":"S8MO00160","state":"OR","cycle":2020,"count":39,"total":6440.0}
+{"_id":{"$oid":"60ad40f69bac61a0427664b6"},"state_full":"Indiana","candidate_id":"S8MO00160","state":"IN","cycle":2018,"count":101,"total":114075.01}
+{"_id":{"$oid":"60ad40f69bac61a0427664b7"},"state_full":"Rhode Island","candidate_id":"S8MO00160","state":"RI","cycle":2020,"count":2,"total":666.67}
+{"_id":{"$oid":"60ad40f69bac61a0427664b8"},"state_full":"South Carolina","candidate_id":"H8KS03155","state":"SC","cycle":2020,"count":3,"total":1250.0}
+{"_id":{"$oid":"60ad40f69bac61a0427664b9"},"state_full":"Tennessee","candidate_id":"S8MO00160","state":"TN","cycle":2018,"count":118,"total":104254.55}
+{"_id":{"$oid":"60ad40f69bac61a0427664ba"},"state_full":"Idaho","candidate_id":"H8KS03155","state":"ID","cycle":2020,"count":6,"total":4750.0}
+{"_id":{"$oid":"60ad40f69bac61a0427664bb"},"state_full":"U.S. Virgin Islands","candidate_id":"S0MO00183","state":"VI","cycle":2016,"count":2,"total":5000.0}
+{"_id":{"$oid":"60ad40f69bac61a0427664bc"},"state_full":"California","candidate_id":"H0KS02188","state":"CA","cycle":2020,"count":10,"total":10400.0}
+{"_id":{"$oid":"60ad40f69bac61a0427664bd"},"state_full":"District Of Columbia","candidate_id":"H0KS02188","state":"DC","cycle":2020,"count":5,"total":6600.0}
+{"_id":{"$oid":"60ad40f69bac61a0427664be"},"state_full":"Montana","candidate_id":"S8MO00160","state":"MT","cycle":2018,"count":16,"total":9337.5}
+{"_id":{"$oid":"60ad40f69bac61a0427664bf"},"state_full":"South Carolina","candidate_id":"S8MO00160","state":"SC","cycle":2020,"count":25,"total":2270.0}
+{"_id":{"$oid":"60ad40f69bac61a0427664c0"},"state_full":"New Hampshire","candidate_id":"S8MO00160","state":"NH","cycle":2020,"count":14,"total":750.0}
+{"_id":{"$oid":"60ad40f69bac61a0427664c1"},"state_full":"Louisiana","candidate_id":"S0KS00091","state":"LA","cycle":2016,"count":4,"total":3500.0}
+{"_id":{"$oid":"60ad40f69bac61a0427664c2"},"state_full":"Missouri","candidate_id":"H8KS03155","state":"MO","cycle":2018,"count":251,"total":68810.39}
+{"_id":{"$oid":"60ad40f69bac61a0427664c3"},"state_full":"Maine","candidate_id":"S8MO00160","state":"ME","cycle":2018,"count":4,"total":900.0}
+{"_id":{"$oid":"60ad40f79bac61a0427664c4"},"state_full":"Nevada","candidate_id":"S0MO00183","state":"NV","cycle":2018,"count":3,"total":3700.0}
+{"_id":{"$oid":"60ad40f79bac61a0427664c5"},"state_full":"South Carolina","candidate_id":"S0MO00183","state":"SC","cycle":2014,"count":1,"total":500.0}
+{"_id":{"$oid":"60ad40f79bac61a0427664c6"},"state_full":"Maryland","candidate_id":"S0KS00091","state":"MD","cycle":2014,"count":10,"total":8602.2}
+{"_id":{"$oid":"60ad40f79bac61a0427664c7"},"state_full":"Illinois","candidate_id":"S8MO00160","state":"IL","cycle":2020,"count":60,"total":22390.0}
+{"_id":{"$oid":"60ad40f79bac61a0427664c8"},"state_full":"Illinois","count":151,"total":58155.09,"cycle":2020,"candidate_id":"H8KS03155","state":"IL"}
+{"_id":{"$oid":"60ad40f79bac61a0427664c9"},"state_full":"Tennessee","count":4,"total":9400.0,"cycle":2020,"candidate_id":"H0KS02188","state":"TN"}
+{"_id":{"$oid":"60ad40f79bac61a0427664ca"},"state_full":"Vermont","count":12,"total":1450.0,"cycle":2020,"candidate_id":"H8KS03155","state":"VT"}
+{"_id":{"$oid":"60ad40f79bac61a0427664cb"},"state_full":"Ohio","count":3,"total":6400.0,"cycle":2016,"candidate_id":"S0KS00091","state":"OH"}
+{"_id":{"$oid":"60ad40f79bac61a0427664cc"},"state_full":"Utah","count":14,"total":15900.0,"cycle":2016,"candidate_id":"S0MO00183","state":"UT"}
+{"_id":{"$oid":"60ad40f79bac61a0427664cd"},"state_full":"District Of Columbia","count":40,"total":35978.0,"cycle":2020,"candidate_id":"S0KS00091","state":"DC"}
+{"_id":{"$oid":"60ad40f79bac61a0427664ce"},"state_full":"South Carolina","count":15,"total":18550.0,"cycle":2020,"candidate_id":"S0MO00183","state":"SC"}
+{"_id":{"$oid":"60ad40f79bac61a0427664cf"},"state_full":"Ohio","count":37,"total":5232.5,"cycle":2020,"candidate_id":"S8MO00160","state":"OH"}
+{"_id":{"$oid":"60ad40f79bac61a0427664d0"},"state_full":"Alaska","count":1,"total":250.0,"cycle":2020,"candidate_id":"S0KS00315","state":"AK"}
+{"_id":{"$oid":"60ad40f79bac61a0427664d1"},"state_full":"Virginia","count":11,"total":13650.0,"cycle":2020,"candidate_id":"H0KS01123","state":"VA"}
+{"_id":{"$oid":"60ad40f79bac61a0427664d2"},"state_full":"Connecticut","count":15,"total":26250.0,"cycle":2020,"candidate_id":"S0MO00183","state":"CT"}
+{"_id":{"$oid":"60ad40f79bac61a0427664d3"},"state_full":"Arizona","count":7,"total":17200.0,"cycle":2018,"candidate_id":"S0KS00091","state":"AZ"}
+{"_id":{"$oid":"60ad40f79bac61a0427664d4"},"state_full":"Massachusetts","count":3,"total":6100.0,"cycle":2020,"candidate_id":"H0KS02188","state":"MA"}
+{"_id":{"$oid":"60ad40f79bac61a0427664d5"},"state_full":"U.S. Virgin Islands","count":1,"total":2700.0,"cycle":2018,"candidate_id":"S8MO00160","state":"VI"}
+{"_id":{"$oid":"60ad40f79bac61a0427664d6"},"state_full":"South Dakota","count":3,"total":8100.0,"cycle":2018,"candidate_id":"S0KS00091","state":"SD"}
+{"_id":{"$oid":"60ad40f79bac61a0427664d7"},"state_full":"Vermont","count":7,"total":1410.0,"cycle":2018,"candidate_id":"H8KS03155","state":"VT"}
+{"_id":{"$oid":"60ad40f79bac61a0427664d8"},"state_full":"New York","count":2,"total":5600.0,"cycle":2020,"candidate_id":"H0KS02188","state":"NY"}
+{"_id":{"$oid":"60ad40f79bac61a0427664d9"},"state_full":"Georgia","count":27,"total":30950.0,"cycle":2020,"candidate_id":"S0KS00315","state":"GA"}
+{"_id":{"$oid":"60ad40f79bac61a0427664da"},"state_full":"Georgia","count":17,"total":23700.0,"cycle":2016,"candidate_id":"S0KS00091","state":"GA"}
+{"_id":{"$oid":"60ad40f79bac61a0427664db"},"state_full":"South Dakota","count":10,"total":15700.0,"cycle":2018,"candidate_id":"S8MO00160","state":"SD"}
+{"_id":{"$oid":"60ad40f79bac61a0427664dc"},"state":"AK","total":750.0,"state_full":"Alaska","cycle":2020,"count":11,"candidate_id":"S8MO00160"}
+{"_id":{"$oid":"60ad40f79bac61a0427664dd"},"state":"NM","total":14624.07,"state_full":"New Mexico","cycle":2020,"count":36,"candidate_id":"H8KS03155"}
+{"_id":{"$oid":"60ad40f79bac61a0427664de"},"state":"WA","total":9400.0,"state_full":"Washington","cycle":2020,"count":6,"candidate_id":"S0KS00091"}
+{"_id":{"$oid":"60ad40f79bac61a0427664df"},"state":"CA","total":530547.04,"state_full":"California","cycle":2020,"count":1175,"candidate_id":"H8KS03155"}
+{"_id":{"$oid":"60ad40f79bac61a0427664e0"},"state":"MO","total":114030.6,"state_full":"Missouri","cycle":2016,"count":103,"candidate_id":"S0KS00091"}
+{"_id":{"$oid":"60ad40f79bac61a0427664e1"},"state":"NY","total":285178.33,"state_full":"New York","cycle":2018,"count":401,"candidate_id":"S8MO00160"}
+{"_id":{"$oid":"60ad40f79bac61a0427664e2"},"state":"CT","total":36975.0,"state_full":"Connecticut","cycle":2020,"count":31,"candidate_id":"S0KS00315"}
+{"_id":{"$oid":"60ad40f79bac61a0427664e3"},"state":"AL","total":47850.0,"state_full":"Alabama","cycle":2016,"count":41,"candidate_id":"S0MO00183"}
+{"_id":{"$oid":"60ad40f79bac61a0427664e4"},"state":"AK","total":4280.0,"state_full":"Alaska","cycle":2020,"count":30,"candidate_id":"H8KS03155"}
+{"_id":{"$oid":"60ad40f79bac61a0427664e5"},"state":"TX","total":30750.0,"state_full":"Texas","cycle":2020,"count":15,"candidate_id":"H0KS02188"}
+{"_id":{"$oid":"60ad40f79bac61a0427664e6"},"state":"DE","total":4000.0,"state_full":"Delaware","cycle":2016,"count":3,"candidate_id":"S0KS00091"}
+{"_id":{"$oid":"60ad40f79bac61a0427664e7"},"state":"TX","total":38487.5,"state_full":"Texas","cycle":2020,"count":36,"candidate_id":"S0KS00091"}
+{"_id":{"$oid":"60ad40f79bac61a0427664e8"},"state":"NC","total":12250.0,"state_full":"North Carolina","cycle":2018,"count":9,"candidate_id":"S0MO00183"}
+{"_id":{"$oid":"60ad40f79bac61a0427664e9"},"state":"OR","total":3000.0,"state_full":"Oregon","cycle":2014,"count":2,"candidate_id":"S0MO00183"}
+{"_id":{"$oid":"60ad40f79bac61a0427664ea"},"state":"NM","total":500.0,"state_full":"New Mexico","cycle":2014,"count":1,"candidate_id":"S0MO00183"}
+{"_id":{"$oid":"60ad40f79bac61a0427664eb"},"state":"NM","total":1100.0,"state_full":"New Mexico","cycle":2014,"count":2,"candidate_id":"S0KS00091"}
+{"_id":{"$oid":"60ad40f79bac61a0427664ec"},"state":"GA","total":500.0,"state_full":"Georgia","cycle":2018,"count":1,"candidate_id":"S0KS00091"}
+{"_id":{"$oid":"60ad40f79bac61a0427664ed"},"state":"DC","total":14532.27,"state_full":"District Of Columbia","cycle":2014,"count":20,"candidate_id":"S0KS00091"}
+{"_id":{"$oid":"60ad40f79bac61a0427664ee"},"state":"CA","total":48850.0,"state_full":"California","cycle":2020,"count":36,"candidate_id":"S0KS00091"}
+{"_id":{"$oid":"60ad40f79bac61a0427664ef"},"state":"LA","total":2800.0,"state_full":"Louisiana","cycle":2020,"count":1,"candidate_id":"H0KS02188"}
+{"_id":{"$oid":"60ad40f79bac61a0427664f0"},"cycle":2018,"count":2,"total":1250.0,"candidate_id":"S0MO00183","state":"IA","state_full":"Iowa"}
+{"_id":{"$oid":"60ad40f79bac61a0427664f1"},"cycle":2018,"count":152,"total":70371.97,"candidate_id":"H8KS03155","state":"MD","state_full":"Maryland"}
+{"_id":{"$oid":"60ad40f79bac61a0427664f2"},"cycle":2018,"count":95,"total":44988.34,"candidate_id":"H8KS03155","state":"IL","state_full":"Illinois"}
+{"_id":{"$oid":"60ad40f79bac61a0427664f3"},"cycle":2018,"count":21,"total":22564.71,"candidate_id":"S0KS00091","state":"MO","state_full":"Missouri"}
+{"_id":{"$oid":"60ad40f79bac61a0427664f4"},"cycle":2020,"count":207,"total":43237.67,"candidate_id":"S8MO00160","state":"VA","state_full":"Virginia"}
+{"_id":{"$oid":"60ad40f79bac61a0427664f5"},"cycle":2020,"count":233,"total":51723.21,"candidate_id":"S8MO00160","state":"FL","state_full":"Florida"}
+{"_id":{"$oid":"60ad40f79bac61a0427664f6"},"cycle":2020,"count":7,"total":600.0,"candidate_id":"S8MO00160","state":"AR","state_full":"Arkansas"}
+{"_id":{"$oid":"60ad40f79bac61a0427664f7"},"cycle":2018,"count":9,"total":3479.41,"candidate_id":"H8KS03155","state":"OH","state_full":"Ohio"}
+{"_id":{"$oid":"60ad40f79bac61a0427664f8"},"cycle":2018,"count":193,"total":95400.0,"candidate_id":"S8MO00160","state":"NC","state_full":"North Carolina"}
+{"_id":{"$oid":"60ad40f79bac61a0427664f9"},"cycle":2020,"count":6,"total":5200.0,"candidate_id":"S0MO00183","state":"MA","state_full":"Massachusetts"}
+{"_id":{"$oid":"60ad40f79bac61a0427664fa"},"cycle":2020,"count":1,"total":2000.0,"candidate_id":"S0KS00091","state":"NJ","state_full":"New Jersey"}
+{"_id":{"$oid":"60ad40f79bac61a0427664fb"},"cycle":2020,"count":42,"total":64719.0,"candidate_id":"S0KS00091","state":"MO","state_full":"Missouri"}
+{"_id":{"$oid":"60ad40f79bac61a0427664fc"},"cycle":2020,"count":2,"total":1500.0,"candidate_id":"S0KS00315","state":"ND","state_full":"North Dakota"}
+{"_id":{"$oid":"60ad40f79bac61a0427664fd"},"cycle":2020,"count":4,"total":2025.0,"candidate_id":"S8MO00160","state":"MS","state_full":"Mississippi"}
+{"_id":{"$oid":"60ad40f79bac61a0427664fe"},"cycle":2020,"count":14,"total":9630.0,"candidate_id":"S8MO00160","state":"CT","state_full":"Connecticut"}
+{"_id":{"$oid":"60ad40f79bac61a0427664ff"},"cycle":2018,"count":26,"total":21325.0,"candidate_id":"H8KS03155","state":"WI","state_full":"Wisconsin"}
+{"_id":{"$oid":"60ad40f79bac61a042766500"},"cycle":2018,"count":5,"total":1600.0,"candidate_id":"S8MO00160","state":"ND","state_full":"North Dakota"}
+{"_id":{"$oid":"60ad40f89bac61a042766501"},"cycle":2018,"count":5,"total":5450.0,"candidate_id":"H8KS03155","state":"NV","state_full":"Nevada"}
+{"_id":{"$oid":"60ad40f89bac61a042766502"},"cycle":2014,"count":7,"total":6050.0,"candidate_id":"S0MO00183","state":"AL","state_full":"Alabama"}
+{"_id":{"$oid":"60ad40f89bac61a042766503"},"cycle":2016,"count":19,"total":20500.0,"candidate_id":"S0KS00091","state":"MD","state_full":"Maryland"}
+{"_id":{"$oid":"60ad40f89bac61a042766504"},"candidate_id":"S8MO00160","total":1000.0,"count":1,"cycle":2018,"state":"ZZ","state_full":"Foreign Countries"}
+{"_id":{"$oid":"60ad40f89bac61a042766505"},"candidate_id":"S8MO00160","total":1000.0,"count":1,"cycle":2018,"state":"AE","state_full":"Armed Forces Europe"}
+{"_id":{"$oid":"60ad40f89bac61a042766506"},"candidate_id":"S0KS00091","total":33450.0,"count":50,"cycle":2014,"state":"TX","state_full":"Texas"}
+{"_id":{"$oid":"60ad40f89bac61a042766507"},"candidate_id":"H8KS03155","total":6650.0,"count":17,"cycle":2018,"state":"SD","state_full":"South Dakota"}
+{"_id":{"$oid":"60ad40f89bac61a042766508"},"candidate_id":"S8MO00160","total":2575.0,"count":31,"cycle":2020,"state":"NV","state_full":"Nevada"}
+{"_id":{"$oid":"60ad40f89bac61a042766509"},"candidate_id":"S0KS00091","total":250.0,"count":1,"cycle":2014,"state":"KY","state_full":"Kentucky"}
+{"_id":{"$oid":"60ad40f89bac61a04276650a"},"candidate_id":"S0KS00091","total":2600.0,"count":1,"cycle":2014,"state":"LA","state_full":"Louisiana"}
+{"_id":{"$oid":"60ad40f89bac61a04276650b"},"candidate_id":"S0KS00091","total":48526.32,"count":61,"cycle":2016,"state":"DC","state_full":"District Of Columbia"}
+{"_id":{"$oid":"60ad40f89bac61a04276650c"},"candidate_id":"S0KS00091","total":50.0,"count":1,"cycle":2014,"state":"MS","state_full":"Mississippi"}
+{"_id":{"$oid":"60ad40f89bac61a04276650d"},"candidate_id":"H0KS02188","total":7115.0,"count":7,"cycle":2020,"state":"AZ","state_full":"Arizona"}
+{"_id":{"$oid":"60ad40f89bac61a04276650e"},"candidate_id":"S8MO00160","total":53772.09,"count":149,"cycle":2020,"state":"NY","state_full":"New York"}
+{"_id":{"$oid":"60ad40f89bac61a04276650f"},"candidate_id":"S0MO00183","total":4000.0,"count":3,"cycle":2014,"state":"NV","state_full":"Nevada"}
+{"_id":{"$oid":"60ad40f89bac61a042766510"},"candidate_id":"S0KS00315","total":55575.0,"count":65,"cycle":2020,"state":"DC","state_full":"District Of Columbia"}
+{"_id":{"$oid":"60ad40f89bac61a042766511"},"candidate_id":"S0MO00183","total":29635.0,"count":36,"cycle":2016,"state":"CO","state_full":"Colorado"}
+{"_id":{"$oid":"60ad40f89bac61a042766512"},"candidate_id":"H8KS03155","total":150.0,"count":1,"cycle":2020,"state":"AP","state_full":"Armed Forces Pacific"}
+{"_id":{"$oid":"60ad40f89bac61a042766513"},"candidate_id":"S0KS00315","total":57237.34,"count":73,"cycle":2020,"state":"MI","state_full":"Michigan"}
+{"_id":{"$oid":"60ad40f89bac61a042766514"},"candidate_id":"S0MO00183","total":17450.0,"count":14,"cycle":2018,"state":"CA","state_full":"California"}
+{"_id":{"$oid":"60ad40f89bac61a042766515"},"candidate_id":"H0KS01123","total":18250.0,"count":17,"cycle":2020,"state":"TX","state_full":"Texas"}
+{"_id":{"$oid":"60ad40f89bac61a042766516"},"candidate_id":"S8MO00160","total":2800.0,"count":1,"cycle":2020,"state":"VT","state_full":"Vermont"}
+{"_id":{"$oid":"60ad40f89bac61a042766517"},"candidate_id":"S0MO00183","total":17450.0,"count":15,"cycle":2018,"state":"IL","state_full":"Illinois"}
+{"_id":{"$oid":"60ad40f89bac61a042766518"},"total":16700.0,"cycle":2020,"state_full":"Wisconsin","state":"WI","candidate_id":"S0KS00315","count":14}
+{"_id":{"$oid":"60ad40f89bac61a042766519"},"total":28400.0,"cycle":2020,"state_full":"Colorado","state":"CO","candidate_id":"S0MO00183","count":15}
+{"_id":{"$oid":"60ad40f89bac61a04276651a"},"total":39500.0,"cycle":2014,"state_full":"Pennsylvania","state":"PA","candidate_id":"S0MO00183","count":44}
+{"_id":{"$oid":"60ad40f89bac61a04276651b"},"total":47500.0,"cycle":2014,"state_full":"California","state":"CA","candidate_id":"S0MO00183","count":41}
+{"_id":{"$oid":"60ad40f89bac61a04276651c"},"total":6500.0,"cycle":2020,"state_full":"Oklahoma","state":"OK","candidate_id":"S0KS00091","count":10}
+{"_id":{"$oid":"60ad40f89bac61a04276651d"},"total":1.24210791E+06,"cycle":2020,"state_full":"Kansas","state":"KS","candidate_id":"H8KS03155","count":8451}
+{"_id":{"$oid":"60ad40f89bac61a04276651e"},"total":687436.88,"cycle":2018,"state_full":"Texas","state":"TX","candidate_id":"S8MO00160","count":915}
+{"_id":{"$oid":"60ad40f89bac61a04276651f"},"total":20050.0,"cycle":2018,"state_full":"Kansas","state":"KS","candidate_id":"S0MO00183","count":16}
+{"_id":{"$oid":"60ad40f89bac61a042766520"},"total":1000.0,"cycle":2018,"state_full":"Vermont","state":"VT","candidate_id":"S0KS00091","count":1}
+{"_id":{"$oid":"60ad40f89bac61a042766521"},"total":30.0,"cycle":2014,"state_full":"Michigan","state":"MI","candidate_id":"S0KS00091","count":1}
+{"_id":{"$oid":"60ad40f89bac61a042766522"},"total":5600.0,"cycle":2020,"state_full":"North Dakota","state":"ND","candidate_id":"H0KS01123","count":4}
+{"_id":{"$oid":"60ad40f89bac61a042766523"},"total":850.0,"cycle":2018,"state_full":"Armed Forces Pacific","state":"AP","candidate_id":"H8KS03155","count":7}
+{"_id":{"$oid":"60ad40f89bac61a042766524"},"total":5500.0,"cycle":2020,"state_full":"Montana","state":"MT","candidate_id":"S0KS00315","count":3}
+{"_id":{"$oid":"60ad40f89bac61a042766525"},"total":1000.0,"cycle":2020,"state_full":"Minnesota","state":"MN","candidate_id":"H0KS02188","count":1}
+{"_id":{"$oid":"60ad40f89bac61a042766526"},"total":3424.1,"cycle":2020,"state_full":"North Carolina","state":"NC","candidate_id":"S8MO00160","count":50}
+{"_id":{"$oid":"60ad40f89bac61a042766527"},"total":112717.0,"cycle":2018,"state_full":"Pennsylvania","state":"PA","candidate_id":"S8MO00160","count":153}
+{"_id":{"$oid":"60ad40f89bac61a042766528"},"total":66600.0,"cycle":2016,"state_full":"New York","state":"NY","candidate_id":"S0KS00091","count":62}
+{"_id":{"$oid":"60ad40f89bac61a042766529"},"total":5900.0,"cycle":2014,"state_full":"Colorado","state":"CO","candidate_id":"S0KS00091","count":19}
+{"_id":{"$oid":"60ad40f89bac61a04276652a"},"total":110.0,"cycle":2020,"state_full":"West Virginia","state":"WV","candidate_id":"H8KS03155","count":1}
+{"_id":{"$oid":"60ad40f89bac61a04276652b"},"total":2950.0,"cycle":2018,"state_full":"South Carolina","state":"SC","candidate_id":"H8KS03155","count":2}
+{"_id":{"$oid":"60ad40f89bac61a04276652c"},"cycle":2020,"count":10,"total":26400.0,"candidate_id":"S0KS00315","state":"MN","state_full":"Minnesota"}
+{"_id":{"$oid":"60ad40f89bac61a04276652d"},"cycle":2014,"count":1,"total":1000.0,"candidate_id":"S0KS00091","state":"IN","state_full":"Indiana"}
+{"_id":{"$oid":"60ad40f89bac61a04276652e"},"cycle":2018,"count":31,"total":16298.0,"candidate_id":"H8KS03155","state":"MI","state_full":"Michigan"}
+{"_id":{"$oid":"60ad40f89bac61a04276652f"},"cycle":2020,"count":4,"total":2100.0,"candidate_id":"H0KS01123","state":"MD","state_full":"Maryland"}
+{"_id":{"$oid":"60ad40f89bac61a042766530"},"cycle":2018,"count":37,"total":41610.0,"candidate_id":"S0KS00091","state":"TX","state_full":"Texas"}
+{"_id":{"$oid":"60ad40f89bac61a042766531"},"cycle":2020,"count":8,"total":12005.0,"candidate_id":"S0KS00315","state":"UT","state_full":"Utah"}
+{"_id":{"$oid":"60ad40f89bac61a042766532"},"cycle":2020,"count":930,"total":1.01734667E+06,"candidate_id":"H0KS02188","state":"KS","state_full":"Kansas"}
+{"_id":{"$oid":"60ad40f89bac61a042766533"},"cycle":2014,"count":4,"total":2200.0,"candidate_id":"S0KS00091","state":"NE","state_full":"Nebraska"}
+{"_id":{"$oid":"60ad40f89bac61a042766534"},"cycle":2020,"count":5,"total":1700.0,"candidate_id":"S0KS00091","state":"IL","state_full":"Illinois"}
+{"_id":{"$oid":"60ad40f89bac61a042766535"},"cycle":2016,"count":50,"total":19850.0,"candidate_id":"S0KS00091","state":"MS","state_full":"Mississippi"}
+{"_id":{"$oid":"60ad40f89bac61a042766536"},"cycle":2016,"count":105,"total":88835.0,"candidate_id":"S0KS00091","state":"TX","state_full":"Texas"}
+{"_id":{"$oid":"60ad40f89bac61a042766537"},"cycle":2018,"count":1,"total":500.0,"candidate_id":"S0MO00183","state":"ID","state_full":"Idaho"}
+{"_id":{"$oid":"60ad40f89bac61a042766538"},"cycle":2020,"count":1,"total":250.0,"candidate_id":"H0KS01123","state":"TN","state_full":"Tennessee"}
+{"_id":{"$oid":"60ad40f89bac61a042766539"},"cycle":2016,"count":2,"total":2950.0,"candidate_id":"S0MO00183","state":"NM","state_full":"New Mexico"}
+{"_id":{"$oid":"60ad40f89bac61a04276653a"},"cycle":2018,"count":10,"total":3850.0,"candidate_id":"H8KS03155","state":"RI","state_full":"Rhode Island"}
+{"_id":{"$oid":"60ad40f89bac61a04276653b"},"cycle":2020,"count":61,"total":50000.0,"candidate_id":"S0MO00183","state":"DC","state_full":"District Of Columbia"}
+{"_id":{"$oid":"60ad40f89bac61a04276653c"},"cycle":2016,"count":21,"total":15500.0,"candidate_id":"S0MO00183","state":"NE","state_full":"Nebraska"}
+{"_id":{"$oid":"60ad40f89bac61a04276653d"},"cycle":2014,"count":164,"total":163816.5,"candidate_id":"S0MO00183","state":"VA","state_full":"Virginia"}
+{"_id":{"$oid":"60ad40f89bac61a04276653e"},"cycle":2020,"count":5,"total":3000.0,"candidate_id":"S0KS00091","state":"NE","state_full":"Nebraska"}
+{"_id":{"$oid":"60ad40f89bac61a04276653f"},"cycle":2016,"count":257,"total":415700.0,"candidate_id":"S0MO00183","state":"NY","state_full":"New York"}
+{"_id":{"$oid":"60ad40f99bac61a042766540"},"state_full":"Minnesota","candidate_id":"H8KS03155","state":"MN","cycle":2020,"count":74,"total":28496.67}
+{"_id":{"$oid":"60ad40f99bac61a042766541"},"state_full":"Arkansas","candidate_id":"S0KS00091","state":"AR","cycle":2016,"count":3,"total":1500.0}
+{"_id":{"$oid":"60ad40f99bac61a042766542"},"state_full":"Indiana","candidate_id":"S0MO00183","state":"IN","cycle":2018,"count":4,"total":8200.0}
+{"_id":{"$oid":"60ad40f99bac61a042766543"},"state_full":"Arkansas","candidate_id":"S0MO00183","state":"AR","cycle":2014,"count":5,"total":2500.0}
+{"_id":{"$oid":"60ad40f99bac61a042766544"},"state_full":"South Dakota","candidate_id":"S0MO00183","state":"SD","cycle":2018,"count":1,"total":500.0}
+{"_id":{"$oid":"60ad40f99bac61a042766545"},"state_full":"North Carolina","candidate_id":"S0KS00315","state":"NC","cycle":2020,"count":82,"total":13182.0}
+{"_id":{"$oid":"60ad40f99bac61a042766546"},"state_full":"Virginia","candidate_id":"S0KS00091","state":"VA","cycle":2020,"count":60,"total":57050.0}
+{"_id":{"$oid":"60ad40f99bac61a042766547"},"state_full":"Wyoming","candidate_id":"S8MO00160","state":"WY","cycle":2018,"count":43,"total":22427.18}
+{"_id":{"$oid":"60ad40f99bac61a042766548"},"state_full":"Louisiana","candidate_id":"S8MO00160","state":"LA","cycle":2020,"count":22,"total":1965.0}
+{"_id":{"$oid":"60ad40f99bac61a042766549"},"state_full":"Arkansas","candidate_id":"S8MO00160","state":"AR","cycle":2018,"count":62,"total":46633.0}
+{"_id":{"$oid":"60ad40f99bac61a04276654a"},"state_full":"Wyoming","candidate_id":"S0KS00091","state":"WY","cycle":2018,"count":1,"total":500.0}
+{"_id":{"$oid":"60ad40f99bac61a04276654b"},"state_full":"Texas","candidate_id":"S8MO00160","state":"TX","cycle":2020,"count":180,"total":30270.0}
+{"_id":{"$oid":"60ad40f99bac61a04276654c"},"state_full":"Rhode Island","candidate_id":"H8KS03155","state":"RI","cycle":2020,"count":31,"total":11481.0}
+{"_id":{"$oid":"60ad40f99bac61a04276654d"},"state_full":"Iowa","candidate_id":"S0KS00315","state":"IA","cycle":2020,"count":7,"total":7100.0}
+{"_id":{"$oid":"60ad40f99bac61a04276654e"},"state_full":"New Jersey","candidate_id":"S0MO00183","state":"NJ","cycle":2018,"count":4,"total":2200.0}
+{"_id":{"$oid":"60ad40f99bac61a04276654f"},"state_full":"Vermont","candidate_id":"S0MO00183","state":"VT","cycle":2016,"count":2,"total":1082.0}
+{"_id":{"$oid":"60ad40f99bac61a042766550"},"state_full":"Pennsylvania","candidate_id":"S0KS00315","state":"PA","cycle":2020,"count":72,"total":91025.0}
+{"_id":{"$oid":"60ad40f99bac61a042766551"},"state_full":"Maryland","candidate_id":"H0KS02188","state":"MD","cycle":2020,"count":3,"total":3000.0}
+{"_id":{"$oid":"60ad40f99bac61a042766552"},"state_full":"Massachusetts","candidate_id":"S0MO00183","state":"MA","cycle":2014,"count":5,"total":4250.0}
+{"_id":{"$oid":"60ad40f99bac61a042766553"},"state_full":"New Hampshire","candidate_id":"S8MO00160","state":"NH","cycle":2018,"count":19,"total":8878.0}
+{"_id":{"$oid":"60ad40f99bac61a042766554"},"candidate_id":"S0KS00091","total":606222.03,"count":1200,"cycle":2016,"state":"KS","state_full":"Kansas"}
+{"_id":{"$oid":"60ad40f99bac61a042766555"},"candidate_id":"S0MO00183","total":305576.55,"count":320,"cycle":2016,"state":"DC","state_full":"District Of Columbia"}
+{"_id":{"$oid":"60ad40f99bac61a042766556"},"candidate_id":"S8MO00160","total":261291.93,"count":286,"cycle":2018,"state":"IL","state_full":"Illinois"}
+{"_id":{"$oid":"60ad40f99bac61a042766557"},"candidate_id":"S0MO00183","total":100.0,"count":5,"cycle":2020,"state":"ID","state_full":"Idaho"}
+{"_id":{"$oid":"60ad40f99bac61a042766558"},"candidate_id":"S0MO00183","total":4500.0,"count":7,"cycle":2014,"state":"NC","state_full":"North Carolina"}
+{"_id":{"$oid":"60ad40f99bac61a042766559"},"candidate_id":"S0MO00183","total":850.0,"count":3,"cycle":2020,"state":"NJ","state_full":"New Jersey"}
+{"_id":{"$oid":"60ad40f99bac61a04276655a"},"candidate_id":"S0MO00183","total":3500.0,"count":3,"cycle":2018,"state":"AZ","state_full":"Arizona"}
+{"_id":{"$oid":"60ad40f99bac61a04276655b"},"candidate_id":"H8KS03155","total":15577.27,"count":19,"cycle":2018,"state":"AZ","state_full":"Arizona"}
+{"_id":{"$oid":"60ad40f99bac61a04276655c"},"candidate_id":"S0MO00183","total":129300.0,"count":118,"cycle":2016,"state":"GA","state_full":"Georgia"}
+{"_id":{"$oid":"60ad40f99bac61a04276655d"},"candidate_id":"S0KS00315","total":262.5,"count":4,"cycle":2020,"state":"AE","state_full":"Armed Forces Europe"}
+{"_id":{"$oid":"60ad40f99bac61a04276655e"},"candidate_id":"S8MO00160","total":1250.0,"count":3,"cycle":2020,"state":"WV","state_full":"West Virginia"}
+{"_id":{"$oid":"60ad40f99bac61a04276655f"},"candidate_id":"S8MO00160","total":400.0,"count":1,"cycle":2020,"state":"SD","state_full":"South Dakota"}
+{"_id":{"$oid":"60ad40f99bac61a042766560"},"candidate_id":"S0KS00091","total":25272.0,"count":40,"cycle":2018,"state":"DC","state_full":"District Of Columbia"}
+{"_id":{"$oid":"60ad40f99bac61a042766561"},"candidate_id":"S0MO00183","total":85750.0,"count":82,"cycle":2016,"state":"PA","state_full":"Pennsylvania"}
+{"_id":{"$oid":"60ad40f99bac61a042766562"},"candidate_id":"H8KS03155","total":10780.5,"count":48,"cycle":2018,"state":"UT","state_full":"Utah"}
+{"_id":{"$oid":"60ad40f99bac61a042766563"},"candidate_id":"S0KS00091","total":5000.0,"count":2,"cycle":2016,"state":"VI","state_full":"U.S. Virgin Islands"}
+{"_id":{"$oid":"60ad40f99bac61a042766564"},"candidate_id":"H8KS03155","total":4100.0,"count":4,"cycle":2018,"state":"WY","state_full":"Wyoming"}
+{"_id":{"$oid":"60ad40f99bac61a042766565"},"candidate_id":"H8KS03155","total":1200.0,"count":3,"cycle":2020,"state":"ZZ","state_full":"Foreign Countries"}
+{"_id":{"$oid":"60ad40f99bac61a042766566"},"candidate_id":"S0MO00183","total":531896.38,"count":542,"cycle":2016,"state":"VA","state_full":"Virginia"}
+{"_id":{"$oid":"60ad40f99bac61a042766567"},"candidate_id":"H0KS01123","total":500.0,"count":1,"cycle":2020,"state":"WY","state_full":"Wyoming"}
+{"_id":{"$oid":"60ad40f99bac61a042766568"},"state_full":"Iowa","candidate_id":"S8MO00160","state":"IA","cycle":2018,"count":23,"total":18510.0}
+{"_id":{"$oid":"60ad40f99bac61a042766569"},"state_full":"New Jersey","candidate_id":"S0MO00183","state":"NJ","cycle":2016,"count":107,"total":144950.0}
+{"_id":{"$oid":"60ad40f99bac61a04276656a"},"state_full":"Mississippi","candidate_id":"S0MO00183","state":"MS","cycle":2020,"count":1,"total":300.0}
+{"_id":{"$oid":"60ad40f99bac61a04276656b"},"state_full":"Mississippi","candidate_id":"S0MO00183","state":"MS","cycle":2016,"count":13,"total":14950.0}
+{"_id":{"$oid":"60ad40f99bac61a04276656c"},"state_full":"California","candidate_id":"S0KS00091","state":"CA","cycle":2016,"count":90,"total":110200.0}
+{"_id":{"$oid":"60ad40f99bac61a04276656d"},"state_full":"Louisiana","candidate_id":"S0MO00183","state":"LA","cycle":2016,"count":19,"total":20000.0}
+{"_id":{"$oid":"60ad40f99bac61a04276656e"},"state_full":"Georgia","candidate_id":"S0MO00183","state":"GA","cycle":2014,"count":11,"total":12933.0}
+{"_id":{"$oid":"60ad40f99bac61a04276656f"},"state_full":"Georgia","candidate_id":"S0MO00183","state":"GA","cycle":2020,"count":30,"total":14128.34}
+{"_id":{"$oid":"60ad40fa9bac61a042766570"},"state_full":"South Carolina","candidate_id":"S0MO00183","state":"SC","cycle":2018,"count":4,"total":4000.0}
+{"_id":{"$oid":"60ad40fa9bac61a042766571"},"state_full":"Louisiana","candidate_id":"H8KS03155","state":"LA","cycle":2018,"count":8,"total":6775.0}
+{"_id":{"$oid":"60ad40fa9bac61a042766572"},"state_full":"Nebraska","candidate_id":"S0KS00315","state":"NE","cycle":2020,"count":4,"total":3600.0}
+{"_id":{"$oid":"60ad40fa9bac61a042766573"},"state_full":"Idaho","candidate_id":"S0KS00315","state":"ID","cycle":2020,"count":3,"total":2250.0}
+{"_id":{"$oid":"60ad40fa9bac61a042766574"},"state_full":"Nevada","candidate_id":"S0MO00183","state":"NV","cycle":2020,"count":2,"total":50.0}
+{"_id":{"$oid":"60ad40fa9bac61a042766575"},"state_full":"Minnesota","candidate_id":"S8MO00160","state":"MN","cycle":2018,"count":79,"total":69733.0}
+{"_id":{"$oid":"60ad40fa9bac61a042766576"},"state_full":"Iowa","candidate_id":"S0MO00183","state":"IA","cycle":2016,"count":11,"total":7250.0}
+{"_id":{"$oid":"60ad40fa9bac61a042766577"},"state_full":"Georgia","candidate_id":"H8KS03155","state":"GA","cycle":2020,"count":61,"total":7095.7}
+{"_id":{"$oid":"60ad40fa9bac61a042766578"},"state_full":"Iowa","candidate_id":"S8MO00160","state":"IA","cycle":2020,"count":7,"total":2950.0}
+{"_id":{"$oid":"60ad40fa9bac61a042766579"},"state_full":"Utah","candidate_id":"H8KS03155","state":"UT","cycle":2020,"count":36,"total":9275.0}
+{"_id":{"$oid":"60ad40fa9bac61a04276657a"},"state_full":"Arkansas","candidate_id":"H8KS03155","state":"AR","cycle":2018,"count":2,"total":1250.0}
+{"_id":{"$oid":"60ad40fa9bac61a04276657b"},"state_full":"Connecticut","candidate_id":"S0KS00091","state":"CT","cycle":2016,"count":9,"total":5625.0}
+{"_id":{"$oid":"60ad40fa9bac61a04276657c"},"state_full":"Maryland","count":22,"total":18600.0,"cycle":2018,"candidate_id":"S0MO00183","state":"MD"}
+{"_id":{"$oid":"60ad40fa9bac61a04276657d"},"state_full":"Kentucky","count":25,"total":24150.0,"cycle":2016,"candidate_id":"S0MO00183","state":"KY"}
+{"_id":{"$oid":"60ad40fa9bac61a04276657e"},"state_full":"Arkansas","count":1,"total":2800.0,"cycle":2020,"candidate_id":"H0KS01123","state":"AR"}
+{"_id":{"$oid":"60ad40fa9bac61a04276657f"},"state_full":"Indiana","count":7,"total":6650.0,"cycle":2014,"candidate_id":"S0MO00183","state":"IN"}
+{"_id":{"$oid":"60ad40fa9bac61a042766580"},"state_full":"Puerto Rico","count":1,"total":2700.0,"cycle":2018,"candidate_id":"S8MO00160","state":"PR"}
+{"_id":{"$oid":"60ad40fa9bac61a042766581"},"state_full":"Maine","count":7,"total":235.0,"cycle":2020,"candidate_id":"S8MO00160","state":"ME"}
+{"_id":{"$oid":"60ad40fa9bac61a042766582"},"state_full":"Montana","count":1,"total":500.0,"cycle":2016,"candidate_id":"S0MO00183","state":"MT"}
+{"_id":{"$oid":"60ad40fa9bac61a042766583"},"state_full":"New York","count":37,"total":50250.0,"cycle":2018,"candidate_id":"S0MO00183","state":"NY"}
+{"_id":{"$oid":"60ad40fa9bac61a042766584"},"state_full":"Nebraska","count":1,"total":500.0,"cycle":2020,"candidate_id":"S0MO00183","state":"NE"}
+{"_id":{"$oid":"60ad40fa9bac61a042766585"},"state_full":"Maryland","count":5,"total":5450.0,"cycle":2020,"candidate_id":"S0KS00091","state":"MD"}
+{"_id":{"$oid":"60ad40fa9bac61a042766586"},"state_full":"Texas","count":320,"total":416341.69,"cycle":2016,"candidate_id":"S0MO00183","state":"TX"}
+{"_id":{"$oid":"60ad40fa9bac61a042766587"},"state_full":"Other","count":5,"total":10050.0,"cycle":2018,"candidate_id":"S8MO00160","state":"OT"}
+{"_id":{"$oid":"60ad40fa9bac61a042766588"},"state_full":"Indiana","count":26,"total":33300.0,"cycle":2016,"candidate_id":"S0MO00183","state":"IN"}
+{"_id":{"$oid":"60ad40fa9bac61a042766589"},"state_full":"California","count":208,"total":161795.5,"cycle":2020,"candidate_id":"S0KS00315","state":"CA"}
+{"_id":{"$oid":"60ad40fa9bac61a04276658a"},"state_full":"Alabama","count":37,"total":12816.67,"cycle":2018,"candidate_id":"S8MO00160","state":"AL"}
+{"_id":{"$oid":"60ad40fa9bac61a04276658b"},"state_full":"Alabama","count":3,"total":5650.0,"cycle":2016,"candidate_id":"S0KS00091","state":"AL"}
+{"_id":{"$oid":"60ad40fa9bac61a04276658c"},"state_full":"New Jersey","count":69,"total":28037.22,"cycle":2018,"candidate_id":"H8KS03155","state":"NJ"}
+{"_id":{"$oid":"60ad40fa9bac61a04276658d"},"state_full":"Florida","count":21,"total":27700.0,"cycle":2018,"candidate_id":"S0MO00183","state":"FL"}
+{"_id":{"$oid":"60ad40fa9bac61a04276658e"},"state_full":"Georgia","count":53,"total":6674.5,"cycle":2020,"candidate_id":"S8MO00160","state":"GA"}
+{"_id":{"$oid":"60ad40fa9bac61a04276658f"},"state_full":"Illinois","count":273,"total":304377.0,"cycle":2016,"candidate_id":"S0MO00183","state":"IL"}
+{"_id":{"$oid":"60ad40fa9bac61a042766590"},"total":200.0,"state":"VI","count":4,"candidate_id":"H8KS03155","state_full":"U.S. Virgin Islands","cycle":2020}
+{"_id":{"$oid":"60ad40fa9bac61a042766591"},"total":1000.0,"state":"OR","count":1,"candidate_id":"S0MO00183","state_full":"Oregon","cycle":2018}
+{"_id":{"$oid":"60ad40fa9bac61a042766592"},"total":2000.0,"state":"CO","count":4,"candidate_id":"S0MO00183","state_full":"Colorado","cycle":2014}
+{"_id":{"$oid":"60ad40fa9bac61a042766593"},"total":3000.0,"state":"CO","count":3,"candidate_id":"S0KS00091","state_full":"Colorado","cycle":2018}
+{"_id":{"$oid":"60ad40fa9bac61a042766594"},"total":3500.0,"state":"IL","count":4,"candidate_id":"S0KS00091","state_full":"Illinois","cycle":2018}
+{"_id":{"$oid":"60ad40fa9bac61a042766595"},"total":35700.0,"state":"AR","count":31,"candidate_id":"S0MO00183","state_full":"Arkansas","cycle":2016}
+{"_id":{"$oid":"60ad40fa9bac61a042766596"},"total":919344.57,"state":"CA","count":1065,"candidate_id":"H8KS03155","state_full":"California","cycle":2018}
+{"_id":{"$oid":"60ad40fa9bac61a042766597"},"total":48800.0,"state":"AZ","count":33,"candidate_id":"S0MO00183","state_full":"Arizona","cycle":2016}
+{"_id":{"$oid":"60ad40fa9bac61a042766598"},"total":5445.0,"state":"WI","count":23,"candidate_id":"S8MO00160","state_full":"Wisconsin","cycle":2020}
+{"_id":{"$oid":"60ad40fa9bac61a042766599"},"total":3850.0,"state":"OK","count":5,"candidate_id":"S8MO00160","state_full":"Oklahoma","cycle":2020}
+{"_id":{"$oid":"60ad40fa9bac61a04276659a"},"total":3000.0,"state":"WI","count":4,"candidate_id":"S0MO00183","state_full":"Wisconsin","cycle":2014}
+{"_id":{"$oid":"60ad40fa9bac61a04276659b"},"total":5696.5,"state":"MI","count":58,"candidate_id":"S8MO00160","state_full":"Michigan","cycle":2020}
+{"_id":{"$oid":"60ad40fa9bac61a04276659c"},"total":2500.0,"state":"IA","count":1,"candidate_id":"H8KS03155","state_full":"Iowa","cycle":2020}
+{"_id":{"$oid":"60ad40fa9bac61a04276659d"},"total":1.01173036E+06,"state":"MO","count":864,"candidate_id":"S0MO00183","state_full":"Missouri","cycle":2014}
+{"_id":{"$oid":"60ad40fa9bac61a04276659e"},"total":5100.0,"state":"OK","count":5,"candidate_id":"S0MO00183","state_full":"Oklahoma","cycle":2014}
+{"_id":{"$oid":"60ad40fa9bac61a04276659f"},"total":119392.0,"state":"OH","count":180,"candidate_id":"S8MO00160","state_full":"Ohio","cycle":2018}
+{"_id":{"$oid":"60ad40fa9bac61a0427665a0"},"total":18150.0,"state":"MD","count":20,"candidate_id":"S0MO00183","state_full":"Maryland","cycle":2020}
+{"_id":{"$oid":"60ad40fa9bac61a0427665a1"},"total":34150.0,"state":"VA","count":49,"candidate_id":"S0KS00091","state_full":"Virginia","cycle":2014}
+{"_id":{"$oid":"60ad40fa9bac61a0427665a2"},"total":4100.0,"state":"HI","count":4,"candidate_id":"S0MO00183","state_full":"Hawaii","cycle":2016}
+{"_id":{"$oid":"60ad40fa9bac61a0427665a3"},"total":3000.0,"state":"ME","count":4,"candidate_id":"S0MO00183","state_full":"Maine","cycle":2014}
+{"_id":{"$oid":"60ad40fa9bac61a0427665a4"},"state":"OK","total":29945.0,"state_full":"Oklahoma","cycle":2020,"count":62,"candidate_id":"H8KS03155"}
+{"_id":{"$oid":"60ad40fa9bac61a0427665a5"},"state":"OH","total":6835.11,"state_full":"Ohio","cycle":2020,"count":42,"candidate_id":"H8KS03155"}
+{"_id":{"$oid":"60ad40fa9bac61a0427665a6"},"state":"FL","total":3050.0,"state_full":"Florida","cycle":2020,"count":2,"candidate_id":"H0KS01123"}
+{"_id":{"$oid":"60ad40fa9bac61a0427665a7"},"state":"MI","total":5400.0,"state_full":"Michigan","cycle":2018,"count":2,"candidate_id":"S0KS00091"}
+{"_id":{"$oid":"60ad40fa9bac61a0427665a8"},"state":"TX","total":37940.0,"state_full":"Texas","cycle":2018,"count":62,"candidate_id":"H8KS03155"}
+{"_id":{"$oid":"60ad40fa9bac61a0427665a9"},"state":"MN","total":3050.0,"state_full":"Minnesota","cycle":2014,"count":3,"candidate_id":"S0KS00091"}
+{"_id":{"$oid":"60ad40fa9bac61a0427665aa"},"state":"CT","total":65195.81,"state_full":"Connecticut","cycle":2018,"count":113,"candidate_id":"H8KS03155"}
+{"_id":{"$oid":"60ad40fa9bac61a0427665ab"},"state":"WA","total":10300.0,"state_full":"Washington","cycle":2018,"count":7,"candidate_id":"S0MO00183"}
+{"_id":{"$oid":"60ad40fa9bac61a0427665ac"},"state":"DE","total":2600.0,"state_full":"Delaware","cycle":2014,"count":1,"candidate_id":"S0MO00183"}
+{"_id":{"$oid":"60ad40fa9bac61a0427665ad"},"state":"AR","total":18553.0,"state_full":"Arkansas","cycle":2020,"count":33,"candidate_id":"S0KS00315"}
+{"_id":{"$oid":"60ad40fa9bac61a0427665ae"},"state":"NH","total":1750.0,"state_full":"New Hampshire","cycle":2016,"count":3,"candidate_id":"S0MO00183"}
+{"_id":{"$oid":"60ad40fa9bac61a0427665af"},"state":"TN","total":30650.0,"state_full":"Tennessee","cycle":2016,"count":18,"candidate_id":"S0KS00091"}
+{"_id":{"$oid":"60ad40fa9bac61a0427665b0"},"state":"SC","total":41669.0,"state_full":"South Carolina","cycle":2018,"count":66,"candidate_id":"S8MO00160"}
+{"_id":{"$oid":"60ad40fa9bac61a0427665b1"},"state":"SD","total":5850.0,"state_full":"South Dakota","cycle":2014,"count":9,"candidate_id":"S0KS00091"}
+{"_id":{"$oid":"60ad40fa9bac61a0427665b2"},"state":"KY","total":500.0,"state_full":"Kentucky","cycle":2020,"count":1,"candidate_id":"H0KS02188"}
+{"_id":{"$oid":"60ad40fa9bac61a0427665b3"},"state":"KY","total":4000.0,"state_full":"Kentucky","cycle":2014,"count":7,"candidate_id":"S0MO00183"}
+{"_id":{"$oid":"60ad40fa9bac61a0427665b4"},"state":"PA","total":1750.0,"state_full":"Pennsylvania","cycle":2016,"count":5,"candidate_id":"S0KS00091"}
+{"_id":{"$oid":"60ad40fa9bac61a0427665b5"},"state":"NE","total":8096.0,"state_full":"Nebraska","cycle":2018,"count":17,"candidate_id":"H8KS03155"}
+{"_id":{"$oid":"60ad40fa9bac61a0427665b6"},"state":"OK","total":14765.0,"state_full":"Oklahoma","cycle":2018,"count":24,"candidate_id":"H8KS03155"}
+{"_id":{"$oid":"60ad40fa9bac61a0427665b7"},"state":"MA","total":4000.0,"state_full":"Massachusetts","cycle":2018,"count":3,"candidate_id":"S0MO00183"}
+{"_id":{"$oid":"60ad40fb9bac61a0427665b8"},"state_full":"South Dakota","cycle":2016,"count":4,"total":2250.0,"state":"SD","candidate_id":"S0KS00091"}
+{"_id":{"$oid":"60ad40fb9bac61a0427665b9"},"state_full":"Kentucky","cycle":2018,"count":62,"total":73022.67,"state":"KY","candidate_id":"S8MO00160"}
+{"_id":{"$oid":"60ad40fb9bac61a0427665ba"},"state_full":"Delaware","cycle":2020,"count":1,"total":250.0,"state":"DE","candidate_id":"H8KS03155"}
+{"_id":{"$oid":"60ad40fb9bac61a0427665bb"},"state_full":"Florida","cycle":2018,"count":78,"total":46415.21,"state":"FL","candidate_id":"H8KS03155"}
+{"_id":{"$oid":"60ad40fb9bac61a0427665bc"},"state_full":"Hawaii","cycle":2014,"count":1,"total":500.0,"state":"HI","candidate_id":"S0MO00183"}
+{"_id":{"$oid":"60ad40fb9bac61a0427665bd"},"state_full":"Hawaii","cycle":2018,"count":7,"total":619.41,"state":"HI","candidate_id":"H8KS03155"}
+{"_id":{"$oid":"60ad40fb9bac61a0427665be"},"state_full":"Wisconsin","cycle":2018,"count":130,"total":85304.23,"state":"WI","candidate_id":"S8MO00160"}
+{"_id":{"$oid":"60ad40fb9bac61a0427665bf"},"state_full":"Tennessee","cycle":2014,"count":1,"total":2000.0,"state":"TN","candidate_id":"S0KS00091"}
+{"_id":{"$oid":"60ad40fb9bac61a0427665c0"},"state_full":"Kansas","cycle":2014,"count":4,"total":415.71,"state":"KS","candidate_id":"H0KS01123"}
+{"_id":{"$oid":"60ad40fb9bac61a0427665c1"},"state_full":"Wisconsin","cycle":2018,"count":1,"total":500.0,"state":"WI","candidate_id":"S0KS00091"}
+{"_id":{"$oid":"60ad40fb9bac61a0427665c2"},"state_full":"New Jersey","cycle":2018,"count":3,"total":2100.0,"state":"NJ","candidate_id":"S0KS00091"}
+{"_id":{"$oid":"60ad40fb9bac61a0427665c3"},"state_full":"Kansas","cycle":2020,"count":299,"total":228442.67,"state":"KS","candidate_id":"S0KS00091"}
+{"_id":{"$oid":"60ad40fb9bac61a0427665c4"},"state_full":"New Jersey","cycle":2016,"count":10,"total":11650.0,"state":"NJ","candidate_id":"S0KS00091"}
+{"_id":{"$oid":"60ad40fb9bac61a0427665c5"},"state_full":"Washington","cycle":2018,"count":113,"total":77165.0,"state":"WA","candidate_id":"S8MO00160"}
+{"_id":{"$oid":"60ad40fb9bac61a0427665c6"},"state_full":"Illinois","cycle":2014,"count":116,"total":105950.0,"state":"IL","candidate_id":"S0MO00183"}
+{"_id":{"$oid":"60ad40fb9bac61a0427665c7"},"state_full":"Georgia","cycle":2014,"count":4,"total":5100.0,"state":"GA","candidate_id":"S0KS00091"}
+{"_id":{"$oid":"60ad40fb9bac61a0427665c8"},"state_full":"Colorado","cycle":2020,"count":88,"total":24322.98,"state":"CO","candidate_id":"H8KS03155"}
+{"_id":{"$oid":"60ad40fb9bac61a0427665c9"},"state_full":"Arizona","cycle":2020,"count":14,"total":16965.0,"state":"AZ","candidate_id":"S0MO00183"}
+{"_id":{"$oid":"60ad40fb9bac61a0427665ca"},"state_full":"Texas","cycle":2020,"count":50,"total":17636.6,"state":"TX","candidate_id":"S0MO00183"}
+{"_id":{"$oid":"60ad40fb9bac61a0427665cb"},"state_full":"Delaware","cycle":2020,"count":5,"total":933.34,"state":"DE","candidate_id":"S8MO00160"}
+{"_id":{"$oid":"60ad40fb9bac61a0427665cc"},"state":"OK","total":1500.0,"state_full":"Oklahoma","cycle":2020,"count":3,"candidate_id":"H0KS01123"}
+{"_id":{"$oid":"60ad40fb9bac61a0427665cd"},"state":"TN","total":7394.18,"state_full":"Tennessee","cycle":2020,"count":22,"candidate_id":"S8MO00160"}
+{"_id":{"$oid":"60ad40fb9bac61a0427665ce"},"state":"IN","total":250.0,"state_full":"Indiana","cycle":2020,"count":1,"candidate_id":"S0MO00183"}
+{"_id":{"$oid":"60ad40fb9bac61a0427665cf"},"state":"WV","total":500.0,"state_full":"West Virginia","cycle":2016,"count":1,"candidate_id":"S0MO00183"}
+{"_id":{"$oid":"60ad40fb9bac61a0427665d0"},"state":"TN","total":2790.0,"state_full":"Tennessee","cycle":2018,"count":26,"candidate_id":"H8KS03155"}
+{"_id":{"$oid":"60ad40fb9bac61a0427665d1"},"state":"NV","total":55750.0,"state_full":"Nevada","cycle":2016,"count":31,"candidate_id":"S0MO00183"}
+{"_id":{"$oid":"60ad40fb9bac61a0427665d2"},"state":"CT","total":76986.67,"state_full":"Connecticut","cycle":2018,"count":105,"candidate_id":"S8MO00160"}
+{"_id":{"$oid":"60ad40fb9bac61a0427665d3"},"state":"CA","total":13770.2,"state_full":"California","cycle":2020,"count":16,"candidate_id":"H0KS01123"}
+{"_id":{"$oid":"60ad40fb9bac61a0427665d4"},"state":"LA","total":8200.0,"state_full":"Louisiana","cycle":2020,"count":6,"candidate_id":"H8KS03155"}
+{"_id":{"$oid":"60ad40fb9bac61a0427665d5"},"state":"NC","total":1000.0,"state_full":"North Carolina","cycle":2014,"count":1,"candidate_id":"S0KS00091"}
+{"_id":{"$oid":"60ad40fb9bac61a0427665d6"},"state":"MO","total":8200.0,"state_full":"Missouri","cycle":2014,"count":9,"candidate_id":"S0KS00091"}
+{"_id":{"$oid":"60ad40fb9bac61a0427665d7"},"state":"OH","total":11100.0,"state_full":"Ohio","cycle":2020,"count":8,"candidate_id":"S0MO00183"}
+{"_id":{"$oid":"60ad40fb9bac61a0427665d8"},"state":"KY","total":3750.0,"state_full":"Kentucky","cycle":2020,"count":4,"candidate_id":"S0KS00315"}
+{"_id":{"$oid":"60ad40fb9bac61a0427665d9"},"state":"AK","total":500.0,"state_full":"Alaska","cycle":2014,"count":1,"candidate_id":"S0MO00183"}
+{"_id":{"$oid":"60ad40fb9bac61a0427665da"},"state":"CO","total":750.0,"state_full":"Colorado","cycle":2020,"count":4,"candidate_id":"H0KS01123"}
+{"_id":{"$oid":"60ad40fb9bac61a0427665db"},"state":"OH","total":14000.0,"state_full":"Ohio","cycle":2020,"count":16,"candidate_id":"S0KS00315"}
+{"_id":{"$oid":"60ad40fb9bac61a0427665dc"},"state":"KY","total":5750.0,"state_full":"Kentucky","cycle":2020,"count":5,"candidate_id":"H8KS03155"}
+{"_id":{"$oid":"60ad40fb9bac61a0427665dd"},"state":"AL","total":2300.0,"state_full":"Alabama","cycle":2018,"count":4,"candidate_id":"S0MO00183"}
+{"_id":{"$oid":"60ad40fb9bac61a0427665de"},"state":"PA","total":9646.68,"state_full":"Pennsylvania","cycle":2020,"count":66,"candidate_id":"S8MO00160"}
+{"_id":{"$oid":"60ad40fb9bac61a0427665df"},"state":"MA","total":14700.0,"state_full":"Massachusetts","cycle":2016,"count":14,"candidate_id":"S0KS00091"}
+{"_id":{"$oid":"60ad40fb9bac61a0427665e0"},"total":4595.0,"cycle":2018,"state_full":"Alabama","state":"AL","candidate_id":"H8KS03155","count":19}
+{"_id":{"$oid":"60ad40fb9bac61a0427665e1"},"total":8350.0,"cycle":2018,"state_full":"Hawaii","state":"HI","candidate_id":"S8MO00160","count":16}
+{"_id":{"$oid":"60ad40fb9bac61a0427665e2"},"total":71838.52,"cycle":2016,"state_full":"Virginia","state":"VA","candidate_id":"S0KS00091","count":94}
+{"_id":{"$oid":"60ad40fb9bac61a0427665e3"},"total":250.0,"cycle":2020,"state_full":"Oregon","state":"OR","candidate_id":"H0KS01123","count":1}
+{"_id":{"$oid":"60ad40fb9bac61a0427665e4"},"total":9365.0,"cycle":2020,"state_full":"Washington","state":"WA","candidate_id":"S0KS00315","count":19}
+{"_id":{"$oid":"60ad40fb9bac61a0427665e5"},"total":45615.79,"cycle":2020,"state_full":"Oklahoma","state":"OK","candidate_id":"S0KS00315","count":67}
+{"_id":{"$oid":"60ad40fb9bac61a0427665e6"},"total":440492.2,"cycle":2014,"state_full":"Kansas","state":"KS","candidate_id":"S0KS00091","count":693}
+{"_id":{"$oid":"60ad40fb9bac61a0427665e7"},"total":22600.0,"cycle":2018,"state_full":"California","state":"CA","candidate_id":"S0KS00091","count":13}
+{"_id":{"$oid":"60ad40fb9bac61a0427665e8"},"total":16325.0,"cycle":2018,"state_full":"Utah","state":"UT","candidate_id":"S8MO00160","count":48}
+{"_id":{"$oid":"60ad40fb9bac61a0427665e9"},"total":4050.0,"cycle":2020,"state_full":"South Dakota","state":"SD","candidate_id":"S0KS00315","count":3}
+{"_id":{"$oid":"60ad40fb9bac61a0427665ea"},"total":78894.96,"cycle":2016,"state_full":"Massachusetts","state":"MA","candidate_id":"S0MO00183","count":59}
+{"_id":{"$oid":"60ad40fb9bac61a0427665eb"},"total":35925.0,"cycle":2018,"state_full":"Louisiana","state":"LA","candidate_id":"S8MO00160","count":44}
+{"_id":{"$oid":"60ad40fb9bac61a0427665ec"},"total":600.0,"cycle":2018,"state_full":"Indiana","state":"IN","candidate_id":"H8KS03155","count":3}
+{"_id":{"$oid":"60ad40fb9bac61a0427665ed"},"total":3500.0,"cycle":2014,"state_full":"Idaho","state":"ID","candidate_id":"S0MO00183","count":5}
+{"_id":{"$oid":"60ad40fb9bac61a0427665ee"},"total":28415.0,"cycle":2020,"state_full":"Tennessee","state":"TN","candidate_id":"S0KS00315","count":40}
+{"_id":{"$oid":"60ad40fb9bac61a0427665ef"},"total":59633.0,"cycle":2014,"state_full":"Kansas","state":"KS","candidate_id":"S0MO00183","count":46}
+{"_id":{"$oid":"60ad40fb9bac61a0427665f0"},"total":32300.0,"cycle":2014,"state_full":"Texas","state":"TX","candidate_id":"S0MO00183","count":27}
+{"_id":{"$oid":"60ad40fb9bac61a0427665f1"},"total":6330.0,"cycle":2020,"state_full":"Mississippi","state":"MS","candidate_id":"S0KS00315","count":13}
+{"_id":{"$oid":"60ad40fb9bac61a0427665f2"},"total":250.0,"cycle":2018,"state_full":"Pennsylvania","state":"PA","candidate_id":"S0KS00091","count":1}
+{"_id":{"$oid":"60ad40fb9bac61a0427665f3"},"total":339200.0,"cycle":2016,"state_full":"Florida","state":"FL","candidate_id":"S0MO00183","count":219}
+{"_id":{"$oid":"60ad40fc9bac61a0427665f4"},"total":500.0,"count":1,"state_full":"Utah","cycle":2018,"state":"UT","candidate_id":"S0KS00091"}
+{"_id":{"$oid":"60ad40fc9bac61a0427665f5"},"total":9775.0,"count":8,"state_full":"Oregon","cycle":2016,"state":"OR","candidate_id":"S0MO00183"}
+{"_id":{"$oid":"60ad40fc9bac61a0427665f6"},"total":6868.0,"count":26,"state_full":"Michigan","cycle":2020,"state":"MI","candidate_id":"S0MO00183"}
+{"_id":{"$oid":"60ad40fc9bac61a0427665f7"},"total":5550.0,"count":9,"state_full":"Arizona","cycle":2016,"state":"AZ","candidate_id":"S0KS00091"}
+{"_id":{"$oid":"60ad40fc9bac61a0427665f8"},"total":6650.0,"count":3,"state_full":"New Mexico","cycle":2020,"state":"NM","candidate_id":"S0KS00315"}
+{"_id":{"$oid":"60ad40fc9bac61a0427665f9"},"total":2.95562723E+06,"count":3981,"state_full":"Missouri","cycle":2016,"state":"MO","candidate_id":"S0MO00183"}
+{"_id":{"$oid":"60ad40fc9bac61a0427665fa"},"total":3500.0,"count":2,"state_full":"Tennessee","cycle":2018,"state":"TN","candidate_id":"S0KS00091"}
+{"_id":{"$oid":"60ad40fc9bac61a0427665fb"},"total":50.0,"count":2,"state_full":"U.S. Virgin Islands","cycle":2018,"state":"VI","candidate_id":"H8KS03155"}
+{"_id":{"$oid":"60ad40fc9bac61a0427665fc"},"total":1000.0,"count":1,"state_full":"Pennsylvania","cycle":2020,"state":"PA","candidate_id":"H0KS02188"}
+{"_id":{"$oid":"60ad40fc9bac61a0427665fd"},"total":1000.0,"count":1,"state_full":"Alaska","cycle":2016,"state":"AK","candidate_id":"S0MO00183"}
+{"_id":{"$oid":"60ad40fc9bac61a0427665fe"},"total":1002.5,"count":16,"state_full":"Idaho","cycle":2020,"state":"ID","candidate_id":"S8MO00160"}
+{"_id":{"$oid":"60ad40fc9bac61a0427665ff"},"total":74821.0,"count":109,"state_full":"Maryland","cycle":2018,"state":"MD","candidate_id":"S8MO00160"}
+{"_id":{"$oid":"60ad40fc9bac61a042766600"},"total":3000.0,"count":3,"state_full":"Mississippi","cycle":2020,"state":"MS","candidate_id":"S0KS00091"}
+{"_id":{"$oid":"60ad40fc9bac61a042766601"},"total":19920.0,"count":26,"state_full":"Oklahoma","cycle":2020,"state":"OK","candidate_id":"S0MO00183"}
+{"_id":{"$oid":"60ad40fc9bac61a042766602"},"total":11700.0,"count":8,"state_full":"Arkansas","cycle":2020,"state":"AR","candidate_id":"S0MO00183"}
+{"_id":{"$oid":"60ad40fc9bac61a042766603"},"total":10153.0,"count":29,"state_full":"Nebraska","cycle":2020,"state":"NE","candidate_id":"H8KS03155"}
+{"_id":{"$oid":"60ad40fc9bac61a042766604"},"total":4800.0,"count":3,"state_full":"Wisconsin","cycle":2020,"state":"WI","candidate_id":"S0MO00183"}
+{"_id":{"$oid":"60ad40fc9bac61a042766605"},"total":1000.0,"count":1,"state_full":"Delaware","cycle":2020,"state":"DE","candidate_id":"S0MO00183"}
+{"_id":{"$oid":"60ad40fc9bac61a042766606"},"total":7075.0,"count":5,"state_full":"Michigan","cycle":2016,"state":"MI","candidate_id":"S0KS00091"}
+{"_id":{"$oid":"60ad40fc9bac61a042766607"},"total":2000.0,"count":1,"state_full":"Massachusetts","cycle":2020,"state":"MA","candidate_id":"S0KS00091"}
+{"_id":{"$oid":"60ad40fc9bac61a042766608"},"state_full":"Alabama","cycle":2014,"count":2,"total":1750.0,"state":"AL","candidate_id":"S0KS00091"}
+{"_id":{"$oid":"60ad40fc9bac61a042766609"},"state_full":"Kansas","cycle":2016,"count":171,"total":150475.0,"state":"KS","candidate_id":"S0MO00183"}
+{"_id":{"$oid":"60ad40fc9bac61a04276660a"},"state_full":"Utah","cycle":2014,"count":2,"total":750.0,"state":"UT","candidate_id":"S0KS00091"}
+{"_id":{"$oid":"60ad40fc9bac61a04276660b"},"state_full":"Illinois","cycle":2016,"count":24,"total":26200.0,"state":"IL","candidate_id":"S0KS00091"}
+{"_id":{"$oid":"60ad40fc9bac61a04276660c"},"state_full":"North Carolina","cycle":2020,"count":37,"total":14220.0,"state":"NC","candidate_id":"S0MO00183"}
+{"_id":{"$oid":"60ad40fc9bac61a04276660d"},"state_full":"Vermont","cycle":2018,"count":12,"total":3150.0,"state":"VT","candidate_id":"S8MO00160"}
+{"_id":{"$oid":"60ad40fc9bac61a04276660e"},"state_full":"New York","cycle":2018,"count":5,"total":7000.0,"state":"NY","candidate_id":"S0KS00091"}
+{"_id":{"$oid":"60ad40fc9bac61a04276660f"},"state_full":"Washington","cycle":2016,"count":31,"total":59850.0,"state":"WA","candidate_id":"S0MO00183"}
+{"_id":{"$oid":"60ad40fc9bac61a042766610"},"state_full":"New York","cycle":2014,"count":28,"total":50350.0,"state":"NY","candidate_id":"S0MO00183"}
+{"_id":{"$oid":"60ad40fc9bac61a042766611"},"state_full":"Virginia","cycle":2018,"count":105,"total":45927.62,"state":"VA","candidate_id":"H8KS03155"}
+{"_id":{"$oid":"60ad40fc9bac61a042766612"},"state_full":"Michigan","cycle":2018,"count":1,"total":2700.0,"state":"MI","candidate_id":"S0MO00183"}
+{"_id":{"$oid":"60ad40fc9bac61a042766613"},"state_full":"Wyoming","cycle":2014,"count":2,"total":1000.0,"state":"WY","candidate_id":"S0MO00183"}
+{"_id":{"$oid":"60ad40fc9bac61a042766614"},"state_full":"Arizona","cycle":2020,"count":60,"total":20982.5,"state":"AZ","candidate_id":"S0KS00315"}
+{"_id":{"$oid":"60ad40fc9bac61a042766615"},"state_full":"Louisiana","cycle":2020,"count":3,"total":2500.0,"state":"LA","candidate_id":"S0KS00091"}
+{"_id":{"$oid":"60ad40fc9bac61a042766616"},"state_full":"Guam","cycle":2018,"count":3,"total":750.0,"state":"GU","candidate_id":"S8MO00160"}
+{"_id":{"$oid":"60ad40fc9bac61a042766617"},"state_full":"Connecticut","cycle":2014,"count":3,"total":3000.0,"state":"CT","candidate_id":"S0KS00091"}
+{"_id":{"$oid":"60ad40fc9bac61a042766618"},"state_full":"Michigan","cycle":2018,"count":126,"total":44057.0,"state":"MI","candidate_id":"S8MO00160"}
+{"_id":{"$oid":"60ad40fc9bac61a042766619"},"state_full":"Idaho","cycle":2018,"count":31,"total":20345.0,"state":"ID","candidate_id":"S8MO00160"}
+{"_id":{"$oid":"60ad40fc9bac61a04276661a"},"state_full":"Vermont","cycle":2014,"count":1,"total":500.0,"state":"VT","candidate_id":"S0MO00183"}
+{"_id":{"$oid":"60ad40fc9bac61a04276661b"},"state_full":"Missouri","cycle":2020,"count":1209,"total":600641.2,"state":"MO","candidate_id":"S8MO00160"}
+{"_id":{"$oid":"60ad40fc9bac61a04276661c"},"state_full":"Michigan","count":4,"total":5500.0,"cycle":2020,"candidate_id":"S0KS00091","state":"MI"}
+{"_id":{"$oid":"60ad40fc9bac61a04276661d"},"state_full":"Florida","count":250,"total":165973.9,"cycle":2020,"candidate_id":"S0KS00315","state":"FL"}
+{"_id":{"$oid":"60ad40fc9bac61a04276661e"},"state_full":"Oklahoma","count":96,"total":125225.0,"cycle":2016,"candidate_id":"S0MO00183","state":"OK"}
+{"_id":{"$oid":"60ad40fc9bac61a04276661f"},"state_full":"Iowa","count":1,"total":1000.0,"cycle":2020,"candidate_id":"S0MO00183","state":"IA"}
+{"_id":{"$oid":"60ad40fc9bac61a042766620"},"state_full":"California","count":20,"total":22800.0,"cycle":2014,"candidate_id":"S0KS00091","state":"CA"}
+{"_id":{"$oid":"60ad40fc9bac61a042766621"},"state_full":"North Carolina","count":16,"total":18950.0,"cycle":2016,"candidate_id":"S0MO00183","state":"NC"}
+{"_id":{"$oid":"60ad40fc9bac61a042766622"},"state_full":"Virginia","count":353,"total":244378.18,"cycle":2018,"candidate_id":"S8MO00160","state":"VA"}
+{"_id":{"$oid":"60ad40fc9bac61a042766623"},"state_full":"Rhode Island","count":2,"total":2000.0,"cycle":2014,"candidate_id":"S0MO00183","state":"RI"}
+{"_id":{"$oid":"60ad40fc9bac61a042766624"},"state_full":"South Carolina","count":1,"total":1000.0,"cycle":2016,"candidate_id":"S0KS00091","state":"SC"}
+{"_id":{"$oid":"60ad40fc9bac61a042766625"},"state_full":"District Of Columbia","count":65,"total":69450.0,"cycle":2014,"candidate_id":"S0MO00183","state":"DC"}
+{"_id":{"$oid":"60ad40fc9bac61a042766626"},"state_full":"Ohio","count":33,"total":28550.0,"cycle":2014,"candidate_id":"S0MO00183","state":"OH"}
+{"_id":{"$oid":"60ad40fc9bac61a042766627"},"state_full":"Nebraska","count":8,"total":5500.0,"cycle":2014,"candidate_id":"S0MO00183","state":"NE"}
+{"_id":{"$oid":"60ad40fc9bac61a042766628"},"state_full":"Nebraska","count":39,"total":31775.0,"cycle":2016,"candidate_id":"S0KS00091","state":"NE"}
+{"_id":{"$oid":"60ad40fc9bac61a042766629"},"state_full":"Oklahoma","count":82,"total":61182.83,"cycle":2018,"candidate_id":"S8MO00160","state":"OK"}
+{"_id":{"$oid":"60ad40fc9bac61a04276662a"},"state_full":"Florida","count":16,"total":21794.43,"cycle":2014,"candidate_id":"S0KS00091","state":"FL"}
+{"_id":{"$oid":"60ad40fc9bac61a04276662b"},"state_full":"Utah","count":14,"total":650.0,"cycle":2020,"candidate_id":"S8MO00160","state":"UT"}
+{"_id":{"$oid":"60ad40fc9bac61a04276662c"},"state_full":"Indiana","count":23,"total":12495.35,"cycle":2020,"candidate_id":"H8KS03155","state":"IN"}
+{"_id":{"$oid":"60ad40fc9bac61a04276662d"},"state_full":"Wyoming","count":5,"total":4000.0,"cycle":2016,"candidate_id":"S0MO00183","state":"WY"}
+{"_id":{"$oid":"60ad40fc9bac61a04276662e"},"state_full":"Arizona","count":30,"total":29550.0,"cycle":2020,"candidate_id":"S0KS00091","state":"AZ"}
+{"_id":{"$oid":"60ad40fc9bac61a04276662f"},"state_full":"Wisconsin","count":2,"total":550.0,"cycle":2020,"candidate_id":"H0KS02188","state":"WI"}
+{"_id":{"$oid":"60ad40fd9bac61a042766630"},"total":1470.0,"state":"DE","count":33,"candidate_id":"H8KS03155","state_full":"Delaware","cycle":2018}
+{"_id":{"$oid":"60ad40fd9bac61a042766631"},"total":5300.0,"state":"UT","count":6,"candidate_id":"S0KS00091","state_full":"Utah","cycle":2020}
+{"_id":{"$oid":"60ad40fd9bac61a042766632"},"total":117025.0,"state":"CT","count":80,"candidate_id":"S0MO00183","state_full":"Connecticut","cycle":2016}
+{"_id":{"$oid":"60ad40fd9bac61a042766633"},"total":10140.0,"state":"NE","count":28,"candidate_id":"S8MO00160","state_full":"Nebraska","cycle":2018}
+{"_id":{"$oid":"60ad40fd9bac61a042766634"},"total":12250.0,"state":"OK","count":14,"candidate_id":"S0KS00091","state_full":"Oklahoma","cycle":2016}
+{"_id":{"$oid":"60ad40fd9bac61a042766635"},"total":249075.0,"state":"KS","count":281,"candidate_id":"S0KS00091","state_full":"Kansas","cycle":2018}
+{"_id":{"$oid":"60ad40fd9bac61a042766636"},"total":750.0,"state":"ME","count":2,"candidate_id":"S0MO00183","state_full":"Maine","cycle":2016}
+{"_id":{"$oid":"60ad40fd9bac61a042766637"},"total":46300.0,"state":"MI","count":36,"candidate_id":"S0MO00183","state_full":"Michigan","cycle":2014}
+{"_id":{"$oid":"60ad40fd9bac61a042766638"},"total":24810.0,"state":"MA","count":13,"candidate_id":"S0KS00315","state_full":"Massachusetts","cycle":2020}
+{"_id":{"$oid":"60ad40fd9bac61a042766639"},"total":38966.25,"state":"FL","count":59,"candidate_id":"S0MO00183","state_full":"Florida","cycle":2020}
+{"_id":{"$oid":"60ad40fd9bac61a04276663a"},"total":250.0,"state":"NC","count":1,"candidate_id":"S0KS00091","state_full":"North Carolina","cycle":2016}
+{"_id":{"$oid":"60ad40fd9bac61a04276663b"},"total":16940.0,"state":"KS","count":16,"candidate_id":"S0MO00183","state_full":"Kansas","cycle":2020}
+{"_id":{"$oid":"60ad40fd9bac61a04276663c"},"total":65550.0,"state":"MN","count":56,"candidate_id":"S0MO00183","state_full":"Minnesota","cycle":2016}
+{"_id":{"$oid":"60ad40fd9bac61a04276663d"},"total":10240.0,"state":"NM","count":23,"candidate_id":"S8MO00160","state_full":"New Mexico","cycle":2018}
+{"_id":{"$oid":"60ad40fd9bac61a04276663e"},"total":482550.58,"state":"CA","count":882,"candidate_id":"S8MO00160","state_full":"California","cycle":2018}
+{"_id":{"$oid":"60ad40fd9bac61a04276663f"},"total":8000.0,"state":"OH","count":8,"candidate_id":"S0MO00183","state_full":"Ohio","cycle":2018}
+{"_id":{"$oid":"60ad40fd9bac61a042766640"},"total":1000.0,"state":"SC","count":1,"candidate_id":"S0KS00091","state_full":"South Carolina","cycle":2018}
+{"_id":{"$oid":"60ad40fd9bac61a042766641"},"total":105475.0,"state":"MI","count":76,"candidate_id":"S0MO00183","state_full":"Michigan","cycle":2016}
+{"_id":{"$oid":"60ad40fd9bac61a042766642"},"total":1984.29,"state":"NH","count":9,"candidate_id":"H8KS03155","state_full":"New Hampshire","cycle":2020}
+{"_id":{"$oid":"60ad40fd9bac61a042766643"},"total":2700.0,"state":"MT","count":7,"candidate_id":"S0KS00091","state_full":"Montana","cycle":2018}
+{"_id":{"$oid":"60ad40fd9bac61a042766644"},"candidate_id":"S0KS00091","total":9100.0,"count":5,"cycle":2018,"state":"MN","state_full":"Minnesota"}
+{"_id":{"$oid":"60ad40fd9bac61a042766645"},"candidate_id":"H0KS01123","total":500.0,"count":1,"cycle":2020,"state":"MI","state_full":"Michigan"}
+{"_id":{"$oid":"60ad40fd9bac61a042766646"},"candidate_id":"S8MO00160","total":20065.0,"count":32,"cycle":2018,"state":"WV","state_full":"West Virginia"}
+{"_id":{"$oid":"60ad40fd9bac61a042766647"},"candidate_id":"S8MO00160","total":5402.5,"count":55,"cycle":2020,"state":"AZ","state_full":"Arizona"}
+{"_id":{"$oid":"60ad40fd9bac61a042766648"},"candidate_id":"H8KS03155","total":603247.1,"count":678,"cycle":2018,"state":"NY","state_full":"New York"}
+{"_id":{"$oid":"60ad40fd9bac61a042766649"},"candidate_id":"S0MO00183","total":22275.0,"count":25,"cycle":2020,"state":"NY","state_full":"New York"}
+{"_id":{"$oid":"60ad40fd9bac61a04276664a"},"candidate_id":"S0KS00315","total":2500.0,"count":1,"cycle":2020,"state":"WV","state_full":"West Virginia"}
+{"_id":{"$oid":"60ad40fd9bac61a04276664b"},"candidate_id":"H8KS03155","total":1000.0,"count":2,"cycle":2018,"state":"MS","state_full":"Mississippi"}
+{"_id":{"$oid":"60ad40fd9bac61a04276664c"},"candidate_id":"H0KS02188","total":2000.0,"count":3,"cycle":2020,"state":"AR","state_full":"Arkansas"}
+{"_id":{"$oid":"60ad40fd9bac61a04276664d"},"candidate_id":"S0KS00091","total":3950.0,"count":5,"cycle":2016,"state":"WA","state_full":"Washington"}
+{"_id":{"$oid":"60ad40fd9bac61a04276664e"},"candidate_id":"S0MO00183","total":2500.0,"count":3,"cycle":2018,"state":"PA","state_full":"Pennsylvania"}
+{"_id":{"$oid":"60ad40fd9bac61a04276664f"},"candidate_id":"H8KS03155","total":44666.34,"count":169,"cycle":2020,"state":"VA","state_full":"Virginia"}
+{"_id":{"$oid":"60ad40fd9bac61a042766650"},"candidate_id":"S8MO00160","total":15500.0,"count":35,"cycle":2020,"state":"MD","state_full":"Maryland"}
+{"_id":{"$oid":"60ad40fd9bac61a042766651"},"candidate_id":"H0KS02188","total":500.0,"count":1,"cycle":2020,"state":"NE","state_full":"Nebraska"}
+{"_id":{"$oid":"60ad40fd9bac61a042766652"},"candidate_id":"S0KS00091","total":350.0,"count":1,"cycle":2016,"state":"ME","state_full":"Maine"}
+{"_id":{"$oid":"60ad40fd9bac61a042766653"},"candidate_id":"S0KS00091","total":500.0,"count":1,"cycle":2020,"state":"AL","state_full":"Alabama"}
+{"_id":{"$oid":"60ad40fd9bac61a042766654"},"candidate_id":"S0KS00315","total":18400.0,"count":29,"cycle":2020,"state":"MD","state_full":"Maryland"}
+{"_id":{"$oid":"60ad40fd9bac61a042766655"},"candidate_id":"H8KS03155","total":6611.0,"count":10,"cycle":2018,"state":"WV","state_full":"West Virginia"}
+{"_id":{"$oid":"60ad40fd9bac61a042766656"},"candidate_id":"S8MO00160","total":45765.85,"count":267,"cycle":2020,"state":"CA","state_full":"California"}
+{"_id":{"$oid":"60ad40fd9bac61a042766657"},"candidate_id":"H8KS03155","total":2925.0,"count":7,"cycle":2018,"state":"MT","state_full":"Montana"}
+{"_id":{"$oid":"60ad40fd9bac61a042766658"},"total":5000.0,"state":"SC","count":4,"candidate_id":"S0MO00183","state_full":"South Carolina","cycle":2016}
+{"_id":{"$oid":"60ad40fd9bac61a042766659"},"total":175905.0,"state":"NY","count":181,"candidate_id":"S0KS00315","state_full":"New York","cycle":2020}
+{"_id":{"$oid":"60ad40fd9bac61a04276665a"},"total":3200.0,"state":"WA","count":7,"candidate_id":"S0KS00091","state_full":"Washington","cycle":2018}
+{"_id":{"$oid":"60ad40fd9bac61a04276665b"},"total":3000.0,"state":"TN","count":7,"candidate_id":"S0MO00183","state_full":"Tennessee","cycle":2014}
+{"_id":{"$oid":"60ad40fd9bac61a04276665c"},"total":475.0,"state":"GA","count":2,"candidate_id":"H0KS01123","state_full":"Georgia","cycle":2020}
+{"_id":{"$oid":"60ad40fd9bac61a04276665d"},"total":1000.0,"state":"DE","count":1,"candidate_id":"S0KS00315","state_full":"Delaware","cycle":2020}
+{"_id":{"$oid":"60ad40fd9bac61a04276665e"},"total":3200.0,"state":"AK","count":18,"candidate_id":"S8MO00160","state_full":"Alaska","cycle":2018}
+{"_id":{"$oid":"60ad40fd9bac61a04276665f"},"total":5600.0,"state":"ID","count":2,"candidate_id":"H0KS02188","state_full":"Idaho","cycle":2020}
+{"_id":{"$oid":"60ad40fd9bac61a042766660"},"total":500.0,"state":"MN","count":1,"candidate_id":"S0MO00183","state_full":"Minnesota","cycle":2018}
+{"_id":{"$oid":"60ad40fd9bac61a042766661"},"total":2500.0,"state":"ID","count":4,"candidate_id":"S0MO00183","state_full":"Idaho","cycle":2016}
+{"_id":{"$oid":"60ad40fd9bac61a042766662"},"total":64578.15,"state":"FL","count":124,"candidate_id":"H8KS03155","state_full":"Florida","cycle":2020}
+{"_id":{"$oid":"60ad40fd9bac61a042766663"},"total":250.0,"state":"HI","count":1,"candidate_id":"S8MO00160","state_full":"Hawaii","cycle":2020}
+{"_id":{"$oid":"60ad40fd9bac61a042766664"},"total":51450.0,"state":"TN","count":38,"candidate_id":"S0MO00183","state_full":"Tennessee","cycle":2016}
+{"_id":{"$oid":"60ad40fd9bac61a042766665"},"total":32242.5,"state":"PA","count":68,"candidate_id":"H8KS03155","state_full":"Pennsylvania","cycle":2018}
+{"_id":{"$oid":"60ad40fd9bac61a042766666"},"total":16000.0,"state":"FL","count":9,"candidate_id":"H0KS02188","state_full":"Florida","cycle":2020}
+{"_id":{"$oid":"60ad40fd9bac61a042766667"},"total":2700.0,"state":"AP","count":1,"candidate_id":"S8MO00160","state_full":"Armed Forces Pacific","cycle":2018}
+{"_id":{"$oid":"60ad40fd9bac61a042766668"},"total":400.0,"state":"MT","count":2,"candidate_id":"S8MO00160","state_full":"Montana","cycle":2020}
+{"_id":{"$oid":"60ad40fd9bac61a042766669"},"total":122165.63,"state":"VA","count":84,"candidate_id":"S0MO00183","state_full":"Virginia","cycle":2018}
+{"_id":{"$oid":"60ad40fd9bac61a04276666a"},"total":22650.0,"state":"TX","count":15,"candidate_id":"S0MO00183","state_full":"Texas","cycle":2018}
+{"_id":{"$oid":"60ad40fd9bac61a04276666b"},"total":3500.0,"state":"LA","count":4,"candidate_id":"S0MO00183","state_full":"Louisiana","cycle":2014}
+{"_id":{"$oid":"60ad40fe9bac61a04276666c"},"candidate_id":"H8KS03155","total":22478.47,"count":65,"cycle":2020,"state":"TX","state_full":"Texas"}
+{"_id":{"$oid":"60ad40fe9bac61a04276666d"},"candidate_id":"S0KS00315","total":29225.0,"count":23,"cycle":2020,"state":"LA","state_full":"Louisiana"}
+{"_id":{"$oid":"60ad40fe9bac61a04276666e"},"candidate_id":"H0KS01123","total":2800.0,"count":1,"cycle":2020,"state":"NE","state_full":"Nebraska"}
+{"_id":{"$oid":"60ad40fe9bac61a04276666f"},"candidate_id":"S0MO00183","total":4100.0,"count":4,"cycle":2014,"state":"SD","state_full":"South Dakota"}
+{"_id":{"$oid":"60ad40fe9bac61a042766670"},"candidate_id":"S8MO00160","total":40405.0,"count":42,"cycle":2020,"state":"KS","state_full":"Kansas"}
+{"_id":{"$oid":"60ad40fe9bac61a042766671"},"candidate_id":"H0KS01123","total":251.0,"count":1,"cycle":2020,"state":"IL","state_full":"Illinois"}
+{"_id":{"$oid":"60ad40fe9bac61a042766672"},"candidate_id":"H8KS03155","total":124461.18,"count":298,"cycle":2018,"state":"DC","state_full":"District Of Columbia"}
+{"_id":{"$oid":"60ad40fe9bac61a042766673"},"candidate_id":"S0KS00091","total":1500.0,"count":3,"cycle":2014,"state":"WA","state_full":"Washington"}
+{"_id":{"$oid":"60ad40fe9bac61a042766674"},"candidate_id":"S0KS00091","total":2864.15,"count":4,"cycle":2014,"state":"MA","state_full":"Massachusetts"}
+{"_id":{"$oid":"60ad40fe9bac61a042766675"},"candidate_id":"H8KS03155","total":3500.0,"count":4,"cycle":2020,"state":"MS","state_full":"Mississippi"}
+{"_id":{"$oid":"60ad40fe9bac61a042766676"},"candidate_id":"S0MO00183","total":6400.0,"count":3,"cycle":2018,"state":"CT","state_full":"Connecticut"}
+{"_id":{"$oid":"60ad40fe9bac61a042766677"},"candidate_id":"S0KS00091","total":250.0,"count":1,"cycle":2016,"state":"OR","state_full":"Oregon"}
+{"_id":{"$oid":"60ad40fe9bac61a042766678"},"candidate_id":"H8KS03155","total":14366.66,"count":39,"cycle":2018,"state":"MN","state_full":"Minnesota"}
+{"_id":{"$oid":"60ad40fe9bac61a042766679"},"candidate_id":"H0KS02188","total":3800.0,"count":2,"cycle":2020,"state":"CT","state_full":"Connecticut"}
+{"_id":{"$oid":"60ad40fe9bac61a04276667a"},"candidate_id":"H0KS01123","total":49200.0,"count":47,"cycle":2020,"state":"MO","state_full":"Missouri"}
+{"_id":{"$oid":"60ad40fe9bac61a04276667b"},"candidate_id":"S0MO00183","total":12660.0,"count":11,"cycle":2018,"state":"GA","state_full":"Georgia"}
+{"_id":{"$oid":"60ad40fe9bac61a04276667c"},"candidate_id":"H0KS02188","total":1000.0,"count":1,"cycle":2020,"state":"IN","state_full":"Indiana"}
+{"_id":{"$oid":"60ad40fe9bac61a04276667d"},"candidate_id":"S8MO00160","total":7440.0,"count":40,"cycle":2020,"state":"WA","state_full":"Washington"}
+{"_id":{"$oid":"60ad40fe9bac61a04276667e"},"candidate_id":"H8KS03155","total":11700.0,"count":6,"cycle":2020,"state":"WY","state_full":"Wyoming"}
+{"_id":{"$oid":"60ad40fe9bac61a04276667f"},"candidate_id":"H8KS03155","total":2595.0,"count":12,"cycle":2018,"state":"ID","state_full":"Idaho"}
